@@ -1,0 +1,74 @@
+[
+    {
+        "id": "001b4565-7794-4a9d-b781-265874d298d7",
+        "optionType": 2,
+        "engOptionLabel": "Size",
+        "vnOptionLabel": "Size",
+        "engOptionValue": "Size S",
+        "vnOptionValue": "Size S"
+    },
+    {
+        "id": "002b4565-7794-4a9d-b781-265874d298d7",
+        "optionType": 2,
+        "engOptionLabel": "Size",
+        "vnOptionLabel": "Size",
+        "engOptionValue": "Size M",
+        "vnOptionValue": "Size M"
+    },
+    {
+        "id": "003b4565-7794-4a9d-b781-265874d298d7",
+        "optionType": 2,
+        "engOptionLabel": "Size",
+        "vnOptionLabel": "Size",
+        "engOptionValue": "Size L",
+        "vnOptionValue": "Size L"
+    },
+    {
+        "id": "004b4565-7794-4a9d-b781-265874d298d7",
+        "optionType": 2,
+        "engOptionLabel": "Size",
+        "vnOptionLabel": "Size",
+        "engOptionValue": "Size XL",
+        "vnOptionValue": "Size XL"
+    },
+    {
+        "id": "005b4565-7794-4a9d-b781-265874d298d7",
+        "optionType": 2,
+        "engOptionLabel": "Size",
+        "vnOptionLabel": "Size",
+        "engOptionValue": "Size XXL",
+        "vnOptionValue": "Size XXL"
+    },
+    {
+        "id": "006b4565-7794-4a9d-b781-265874d298d7",
+        "optionType": 1,
+        "engOptionLabel": "Color",
+        "vnOptionLabel": "Màu sắc",
+        "engOptionValue": "Green",
+        "vnOptionValue": "Xanh lá"
+    },
+    {
+        "id": "007b4565-7794-4a9d-b781-265874d298d7",
+        "optionType": 1,
+        "engOptionLabel": "Color",
+        "vnOptionLabel": "Màu sắc",
+        "engOptionValue": "Red",
+        "vnOptionValue": "Đỏ"
+    },
+    {
+        "id": "008b4565-7794-4a9d-b781-265874d298d7",
+        "optionType": 1,
+        "engOptionLabel": "Color",
+        "vnOptionLabel": "Màu sắc",
+        "engOptionValue": "Purple",
+        "vnOptionValue": "Tím"
+    },
+    {
+        "id": "009b4565-7794-4a9d-b781-265874d298d7",
+        "optionType": 1,
+        "engOptionLabel": "Color",
+        "vnOptionLabel": "Màu sắc",
+        "engOptionValue": "Yellow",
+        "vnOptionValue": "Vàng"
+    }
+]

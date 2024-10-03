@@ -1,0 +1,512 @@
+[
+    {
+        "id": "b29c0129-7e09-44c9-8d2f-2adb0f7fcf51",
+        "engName": "Japan",
+        "vnName": "Nhật Bản",
+        "parrentId": "002b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "3f4d5338-0ef5-4b64-a35b-52649dec2fac",
+        "engName": "Mainland China",
+        "vnName": "Trung Quốc",
+        "parrentId": "002b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "aa829635-1ef4-4114-b77c-32134b685b09",
+        "engName": "Korea",
+        "vnName": "Hàn Quốc",
+        "parrentId": "002b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "12dc0df7-211c-4edc-a457-f6e513a75553",
+        "engName": "Indonesia",
+        "vnName": "Indonesia",
+        "parrentId": "002b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "f5add13e-d22a-45b6-bd05-2d3c935c6e11",
+        "engName": "Others",
+        "vnName": "Khác",
+        "parrentId": "002b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "61a498b4-8868-4ca5-a7cd-879aa67c02d7",
+        "engName": "America",
+        "vnName": "Mỹ",
+        "parrentId": "002b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "8446162c-bb14-43eb-ba03-7cef2c6bb096",
+        "engName": "Taiwan",
+        "vnName": "Đài Loan",
+        "parrentId": "002b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "d3f8e4ba-f28b-496e-b490-3937406b84fe",
+        "engName": "Thailand",
+        "vnName": "Thái Lan",
+        "parrentId": "002b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "5d11acef-dab6-47f3-ba5a-a83899037ef9",
+        "engName": "Vietnam",
+        "vnName": "Việt Nam",
+        "parrentId": "002b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "e5c3d06b-6843-4f24-99d6-95910add8111",
+        "engName": "India",
+        "vnName": "Ấn Độ",
+        "parrentId": "002b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "4a982559-93a0-41e4-8f5b-65e05a8e3ec0",
+        "engName": "Bangladesh",
+        "vnName": "Băng-la-đét",
+        "parrentId": "002b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "47c4446a-21e1-4293-804e-cbe00bc3b0db",
+        "engName": "Brasil",
+        "vnName": "Brasil",
+        "parrentId": "002b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "e29dee41-724e-46a3-9420-ed2d91ec2423",
+        "engName": "Colombia",
+        "vnName": "Colombia",
+        "parrentId": "002b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "29b4f065-5b5e-4f71-a1c9-190e4b49b8f5",
+        "engName": "Chile",
+        "vnName": "Chile",
+        "parrentId": "002b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "f4f91a3b-1212-4dd6-925b-ab6f7b24278e",
+        "engName": "Argentina",
+        "vnName": "Argentina",
+        "parrentId": "002b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "f652a40e-d359-4de9-9a8a-e0da5d6e0931",
+        "engName": "Mexico",
+        "vnName": "Mexico",
+        "parrentId": "002b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "8f26374c-cfcb-4915-ab58-b421744a40aa",
+        "engName": "Nike",
+        "vnName": "Nike",
+        "parrentId": "001b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "e7cd240d-d0dc-43ce-81a4-6dbd193ba500",
+        "engName": "Adidas",
+        "vnName": "Adidas",
+        "parrentId": "001b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "95af7fba-03ec-4efc-b73f-c1fd4233ba14",
+        "engName": "Gucci",
+        "vnName": "Gucci",
+        "parrentId": "001b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "a89265e8-6193-420e-b3d6-59f6fbe9f315",
+        "engName": "Prada",
+        "vnName": "Prada",
+        "parrentId": "001b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "6f021bbd-821d-4067-898c-93357e083007",
+        "engName": "Apple",
+        "vnName": "Apple",
+        "parrentId": "001b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "90523ead-19e6-40c4-ad96-a637e4e58633",
+        "engName": "Samsung",
+        "vnName": "Samsung",
+        "parrentId": "001b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "1ccd39aa-5623-470d-8d06-d5ff46a21451",
+        "engName": "Google",
+        "vnName": "Google",
+        "parrentId": "001b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "3c177b67-f2e5-4b93-9f02-553148b6e28b",
+        "engName": "OnePlus",
+        "vnName": "OnePlus",
+        "parrentId": "001b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "9a3489c0-2c66-4f3b-97ea-20b6bec58405",
+        "engName": "Dell",
+        "vnName": "Dell",
+        "parrentId": "001b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "6b3b7ea2-fe48-47fc-be0c-420f6b10902b",
+        "engName": "HP",
+        "vnName": "HP",
+        "parrentId": "001b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "0ce94063-c213-4da9-a750-b0aff9f10ccb",
+        "engName": "Lenovo",
+        "vnName": "Lenovo",
+        "parrentId": "001b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "0a667bfc-7e48-4d72-9f67-263dc25cdd0e",
+        "engName": "Asus",
+        "vnName": "Asus",
+        "parrentId": "001b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "0aacb128-1e22-4677-b719-801d9b22d1b8",
+        "engName": "Chanel",
+        "vnName": "Chanel",
+        "parrentId": "001b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "25d8c32c-4c1f-483d-be9d-47c3c56d30a0",
+        "engName": "Dior",
+        "vnName": "Dior",
+        "parrentId": "001b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "a26cc3ef-a00e-41b3-a786-add752fb5e8d",
+        "engName": "Yves Saint Laurent",
+        "vnName": "Yves Saint Laurent",
+        "parrentId": "001b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "1ad37d08-6b23-478c-b7f2-3edf7041971a",
+        "engName": "Versace",
+        "vnName": "Versace",
+        "parrentId": "001b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "c502ee60-52f9-4738-a95d-b851a8621148",
+        "engName": "Tom Ford",
+        "vnName": "Tom Ford",
+        "parrentId": "001b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "bbb182b8-0de4-4893-b3ac-f0bce2764346",
+        "engName": "Jo Malone",
+        "vnName": "Jo Malone",
+        "parrentId": "001b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "f03b514f-e918-4e28-a132-c6fb9dd98362",
+        "engName": "Calvin Klein",
+        "vnName": "Calvin Klein",
+        "parrentId": "001b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "5f6fb56b-4df9-4376-aec5-a5a58b808856",
+        "engName": "Hermès",
+        "vnName": "Hermès",
+        "parrentId": "001b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "8c258fcd-f215-4672-8eee-ec9a473b6776",
+        "engName": "Zara",
+        "vnName": "Zara",
+        "parrentId": "001b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "8e974f72-ccd1-4687-88da-d0a46baf570f",
+        "engName": "HM",
+        "vnName": "HM",
+        "parrentId": "001b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "fc2ed098-c620-4242-8ebf-7f291aebe907",
+        "engName": "Dolce & Gabbana",
+        "vnName": "Dolce & Gabbana",
+        "parrentId": "001b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "2d6c938a-b1d2-4021-9cb6-4042525de30b",
+        "engName": "Hugo Boss",
+        "vnName": "Hugo Boss",
+        "parrentId": "001b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "bd033ccc-0a43-4e6f-aca7-f4617f9fbab3",
+        "engName": "Lacoste",
+        "vnName": "Lacoste",
+        "parrentId": "001b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "22fda47d-a418-4368-95fa-445913a8c689",
+        "engName": "Rolex",
+        "vnName": "Rolex",
+        "parrentId": "001b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "b6f2718e-6662-40f8-ba55-0351edd349b1",
+        "engName": "Patek Philippe",
+        "vnName": "Patek Philippe",
+        "parrentId": "001b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "bf175d36-694a-4649-8737-b423c29fff7c",
+        "engName": "Audemars Piguet",
+        "vnName": "Audemars Piguet",
+        "parrentId": "001b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "d81f962e-de60-4baa-9ca8-c1258e8ac054",
+        "engName": "Omega",
+        "vnName": "Omega",
+        "parrentId": "001b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "dad88d54-586d-4b72-a266-ae0a9a049da9",
+        "engName": "Tag Heuer",
+        "vnName": "Tag Heuer",
+        "parrentId": "001b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "d2f4c738-54cb-4720-9797-9a84ce99bb20",
+        "engName": "Cartier",
+        "vnName": "Cartier",
+        "parrentId": "001b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "54942ca6-eea1-4e07-acbb-86e697262dd1",
+        "engName": "IWC Schaffhausen",
+        "vnName": "IWC Schaffhausen",
+        "parrentId": "001b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "d16c1d40-27ad-483a-ba94-5958a0f8d3a0",
+        "engName": "Jaeger-LeCoultre",
+        "vnName": "Jaeger-LeCoultre",
+        "parrentId": "001b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "6121ca68-3db5-4f21-afc3-53b8aa9d010e",
+        "engName": "Breitling",
+        "vnName": "Breitling",
+        "parrentId": "001b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "0893c2da-c198-4f76-9e21-68da5d4e2bd9",
+        "engName": "Panerai",
+        "vnName": "Panerai",
+        "parrentId": "001b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "ead47b5b-7d41-48d6-b412-955fa79a79c8",
+        "engName": "Breguet",
+        "vnName": "Breguet",
+        "parrentId": "001b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "c4543def-6c16-4871-9b6c-b7ab5bbc3615",
+        "engName": "Hublot",
+        "vnName": "Hublot",
+        "parrentId": "001b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "eed79404-59fd-4ae5-9114-34e7184f1159",
+        "engName": "Vacheron Constantin",
+        "vnName": "Vacheron Constantin",
+        "parrentId": "001b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "1b3df73a-ca59-4218-986b-28eee6e727ae",
+        "engName": "Chopard",
+        "vnName": "Chopard",
+        "parrentId": "001b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "1f404cab-616b-481d-9940-da7a64bf4760",
+        "engName": "Richard Mille",
+        "vnName": "Richard Mille",
+        "parrentId": "001b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "a48d3399-0eb2-4334-acfc-e446f80642e8",
+        "engName": "Longines",
+        "vnName": "Longines",
+        "parrentId": "001b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "cac2ce40-7baa-4746-8d02-fade1ed9e6ca",
+        "engName": "Seiko",
+        "vnName": "Seiko",
+        "parrentId": "001b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "7582414a-61fd-4e42-aa35-a676d465e64d",
+        "engName": "Orient",
+        "vnName": "Orient",
+        "parrentId": "001b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "f76e2ae0-6167-4496-945b-6c08f00dedca",
+        "engName": "Windows",
+        "vnName": "Windows",
+        "parrentId": "010b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "c126ea47-d1db-4be2-9532-a9037fea7d7d",
+        "engName": "macOS",
+        "vnName": "macOS",
+        "parrentId": "010b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "b4f52422-7524-4eea-a7ce-37e304c77c2e",
+        "engName": "Ubuntu",
+        "vnName": "Ubuntu",
+        "parrentId": "010b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "3a1cd906-52e2-4457-bb80-ca0b3cf825da",
+        "engName": "Fedora",
+        "vnName": "Fedora",
+        "parrentId": "010b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "cdcca4d5-8f4f-4688-9bae-efa3eae40560",
+        "engName": "Android",
+        "vnName": "Android",
+        "parrentId": "010b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "bba05123-2ea4-4f2c-8c90-8c733e10b150",
+        "engName": "iOS",
+        "vnName": "iOS",
+        "parrentId": "010b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "bba05100-2ea4-4f2c-8c90-8c733e10b150",
+        "engName": "BlackBerry",
+        "vnName": "BlackBerry",
+        "parrentId": "010b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "fda80159-8d53-4812-9dfa-3c1ae39a5795",
+        "engName": "Windows Phone",
+        "vnName": "Windows Phone",
+        "parrentId": "010b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "37961ffe-5d8d-49d1-8edc-aab83e027f72",
+        "engName": "HarmonyOS",
+        "vnName": "HarmonyOS",
+        "parrentId": "010b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "74ca1506-d513-4272-9ca2-4fe1f8124bfc",
+        "engName": "International Warranty",
+        "vnName": "Bảo hành quốc tế",
+        "parrentId": "011b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "962ccb89-b156-4910-b11a-d38fe7924a26",
+        "engName": "Manufacturer Warranty",
+        "vnName": "Bảo hành nhà sản xuất",
+        "parrentId": "011b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "11e6a486-148f-49c3-b445-f4d0b1a78ef9",
+        "engName": "Supplier Warranty",
+        "vnName": "Bảo hành nhà cung cấp",
+        "parrentId": "011b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "095ee104-0998-44bc-b60d-fa3ed7086db0",
+        "engName": "No Warranty",
+        "vnName": "Không bảo hành",
+        "parrentId": "011b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "67161817-ac91-444f-a367-01159d3d2a98",
+        "engName": "1 Month",
+        "vnName": "1 tháng",
+        "parrentId": "005b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "7340c772-01f4-4a82-bf02-f5b8699c1ca4",
+        "engName": "2 Months",
+        "vnName": "2 tháng",
+        "parrentId": "005b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "067dedcf-f0e8-42b5-84f3-6ee8ec18ac02",
+        "engName": "3 Months",
+        "vnName": "3 tháng",
+        "parrentId": "005b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "a1590f57-ce36-4530-9b9f-cb00c1a2c884",
+        "engName": "6 Months",
+        "vnName": "6 tháng",
+        "parrentId": "005b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "5a7fe48b-6616-4828-936a-6a8de69ad52e",
+        "engName": "12 Months",
+        "vnName": "12 tháng",
+        "parrentId": "005b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "35c6a3b5-4dbb-4dc9-8a48-acee5d02dc2b",
+        "engName": "24 Months",
+        "vnName": "24 tháng",
+        "parrentId": "005b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "27de9ef7-c32a-4205-b53d-1317a9169e8e",
+        "engName": "3 Years",
+        "vnName": "3 năm",
+        "parrentId": "005b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "a215d4cd-1778-427f-8215-78365bd0b9fa",
+        "engName": "5 Years",
+        "vnName": "5 năm",
+        "parrentId": "005b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "615e1a77-a536-46df-939e-0a30fee5ae8a",
+        "engName": "No Warranty",
+        "vnName": "Không bảo hành",
+        "parrentId": "005b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "950354e1-3daa-4968-be74-d0afc94e9e7b",
+        "engName": "New",
+        "vnName": "Mới 100%",
+        "parrentId": "012b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "9683474d-0d6f-41c9-a757-c72be694af5a",
+        "engName": "Like new",
+        "vnName": "Like new",
+        "parrentId": "012b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "04372cca-932a-4626-91e9-9e56eb37d62b",
+        "engName": "Secondhand",
+        "vnName": "Đã qua sử dụng",
+        "parrentId": "012b4565-7794-4a9d-b781-265874d298d7"
+    },
+    {
+        "id": "2feb5e3f-a25b-419f-b0b6-d8ba97674315",
+        "engName": "Old",
+        "vnName": "Cũ",
+        "parrentId": "012b4565-7794-4a9d-b781-265874d298d7"
+    }
+]
