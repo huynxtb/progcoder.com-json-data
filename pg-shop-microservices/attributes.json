@@ -4,14 +4,14 @@
         "engName": "Brand",
         "vnName": "Thương hiệu",
         "isRequired": true,
-        "inputType": 2
+        "inputType": 6
     },
     {
         "id": "002b4565-7794-4a9d-b781-265874d298d7",
         "engName": "Region of Origin",
         "vnName": "Xuất xứ (Made in)",
         "isRequired": true,
-        "inputType": 2
+        "inputType": 6
     },
     {
         "id": "003b4565-7794-4a9d-b781-265874d298d7",
@@ -32,7 +32,7 @@
         "engName": "Warranty period",
         "vnName": "Hạn bảo hành",
         "isRequired": false,
-        "inputType": 2
+        "inputType": 6
     },
     {
         "id": "006b4565-7794-4a9d-b781-265874d298d7",
@@ -67,20 +67,20 @@
         "engName": "Operating system",
         "vnName": "Hệ điều hành",
         "isRequired": false,
-        "inputType": 2
+        "inputType": 6
     },
     {
         "id": "011b4565-7794-4a9d-b781-265874d298d7",
         "engName": "Warranty type",
         "vnName": "Loại bảo hành",
         "isRequired": false,
-        "inputType": 2
+        "inputType": 6
     },
     {
         "id": "012b4565-7794-4a9d-b781-265874d298d7",
         "engName": "Condition",
         "vnName": "Tình trạng",
         "isRequired": false,
-        "inputType": 2
+        "inputType": 6
     }
 ]
