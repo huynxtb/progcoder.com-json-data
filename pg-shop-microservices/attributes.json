@@ -15,8 +15,8 @@
     },
     {
         "id": "003b4565-7794-4a9d-b781-265874d298d7",
-        "engName": "Chất liệu",
-        "vnName": "Material",
+        "engName": "Material",
+        "vnName": "Chất liệu",
         "isRequired": false,
         "inputType": 2
     },
