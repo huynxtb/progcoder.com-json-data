@@ -50,8 +50,8 @@
     },
     {
         "id": "007b4565-7794-4a9d-b781-265874d298d7",
-        "engName": "Weight",
-        "vnName": "Trọng lượng",
+        "engName": "Weight (kg)",
+        "vnName": "Trọng lượng (kg)",
         "isRequired": false,
         "inputType": 2
     },
