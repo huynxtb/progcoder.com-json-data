@@ -1,74 +1,137 @@
 [
-    {
-        "id": "001b4565-7794-4a9d-b781-265874d298d7",
-        "optionType": 2,
-        "engOptionLabel": "Size",
-        "vnOptionLabel": "Size",
-        "engOptionValue": "Size S",
-        "vnOptionValue": "Size S"
-    },
-    {
-        "id": "002b4565-7794-4a9d-b781-265874d298d7",
-        "optionType": 2,
-        "engOptionLabel": "Size",
-        "vnOptionLabel": "Size",
-        "engOptionValue": "Size M",
-        "vnOptionValue": "Size M"
-    },
-    {
-        "id": "003b4565-7794-4a9d-b781-265874d298d7",
-        "optionType": 2,
-        "engOptionLabel": "Size",
-        "vnOptionLabel": "Size",
-        "engOptionValue": "Size L",
-        "vnOptionValue": "Size L"
-    },
-    {
-        "id": "004b4565-7794-4a9d-b781-265874d298d7",
-        "optionType": 2,
-        "engOptionLabel": "Size",
-        "vnOptionLabel": "Size",
-        "engOptionValue": "Size XL",
-        "vnOptionValue": "Size XL"
-    },
-    {
-        "id": "005b4565-7794-4a9d-b781-265874d298d7",
-        "optionType": 2,
-        "engOptionLabel": "Size",
-        "vnOptionLabel": "Size",
-        "engOptionValue": "Size XXL",
-        "vnOptionValue": "Size XXL"
-    },
-    {
-        "id": "006b4565-7794-4a9d-b781-265874d298d7",
-        "optionType": 1,
-        "engOptionLabel": "Color",
-        "vnOptionLabel": "Màu sắc",
-        "engOptionValue": "Green",
-        "vnOptionValue": "Xanh lá"
-    },
-    {
-        "id": "007b4565-7794-4a9d-b781-265874d298d7",
-        "optionType": 1,
-        "engOptionLabel": "Color",
-        "vnOptionLabel": "Màu sắc",
-        "engOptionValue": "Red",
-        "vnOptionValue": "Đỏ"
-    },
-    {
-        "id": "008b4565-7794-4a9d-b781-265874d298d7",
-        "optionType": 1,
-        "engOptionLabel": "Color",
-        "vnOptionLabel": "Màu sắc",
-        "engOptionValue": "Purple",
-        "vnOptionValue": "Tím"
-    },
-    {
-        "id": "009b4565-7794-4a9d-b781-265874d298d7",
-        "optionType": 1,
-        "engOptionLabel": "Color",
-        "vnOptionLabel": "Màu sắc",
-        "engOptionValue": "Yellow",
-        "vnOptionValue": "Vàng"
-    }
+  {
+    "id": "001b4565-7794-4a9d-b781-265874d298d7",
+    "optionType": 2,
+    "engOptionLabel": "Size",
+    "vnOptionLabel": "Size",
+    "engOptionValue": "Size S",
+    "vnOptionValue": "Size S",
+    "optionCode": "S"
+  },
+  {
+    "id": "002b4565-7794-4a9d-b781-265874d298d7",
+    "optionType": 2,
+    "engOptionLabel": "Size",
+    "vnOptionLabel": "Size",
+    "engOptionValue": "Size M",
+    "vnOptionValue": "Size M",
+    "optionCode": "M"
+  },
+  {
+    "id": "003b4565-7794-4a9d-b781-265874d298d7",
+    "optionType": 2,
+    "engOptionLabel": "Size",
+    "vnOptionLabel": "Size",
+    "engOptionValue": "Size L",
+    "vnOptionValue": "Size L",
+    "optionCode": "L"
+  },
+  {
+    "id": "004b4565-7794-4a9d-b781-265874d298d7",
+    "optionType": 2,
+    "engOptionLabel": "Size",
+    "vnOptionLabel": "Size",
+    "engOptionValue": "Size XL",
+    "vnOptionValue": "Size XL",
+    "optionCode": "XL"
+  },
+  {
+    "id": "005b4565-7794-4a9d-b781-265874d298d7",
+    "optionType": 2,
+    "engOptionLabel": "Size",
+    "vnOptionLabel": "Size",
+    "engOptionValue": "Size XXL",
+    "vnOptionValue": "Size XXL",
+    "optionCode": "XXL"
+  },
+  {
+    "id": "006b4565-7794-4a9d-b781-265874d298d7",
+    "optionType": 1,
+    "engOptionLabel": "Color",
+    "vnOptionLabel": "Màu sắc",
+    "engOptionValue": "Green",
+    "vnOptionValue": "Xanh lá",
+    "optionCode": "#008000"
+  },
+  {
+    "id": "007b4565-7794-4a9d-b781-265874d298d7",
+    "optionType": 1,
+    "engOptionLabel": "Color",
+    "vnOptionLabel": "Màu sắc",
+    "engOptionValue": "Red",
+    "vnOptionValue": "Đỏ",
+    "optionCode": "#FF0000"
+  },
+  {
+    "id": "008b4565-7794-4a9d-b781-265874d298d7",
+    "optionType": 1,
+    "engOptionLabel": "Color",
+    "vnOptionLabel": "Màu sắc",
+    "engOptionValue": "Purple",
+    "vnOptionValue": "Tím",
+    "optionCode": "#800080"
+  },
+  {
+    "id": "009b4565-7794-4a9d-b781-265874d298d7",
+    "optionType": 1,
+    "engOptionLabel": "Color",
+    "vnOptionLabel": "Màu sắc",
+    "engOptionValue": "Yellow",
+    "vnOptionValue": "Vàng",
+    "optionCode": "#FFFF00"
+  },
+  {
+    "id": "00ab4565-7794-4a9d-b781-265874d298d7",
+    "optionType": 1,
+    "engOptionLabel": "Color",
+    "vnOptionLabel": "Màu sắc",
+    "engOptionValue": "Blue",
+    "vnOptionValue": "Xanh dương",
+    "optionCode": "#0000FF"
+  },
+  {
+    "id": "00bb4565-7794-4a9d-b781-265874d298d7",
+    "optionType": 1,
+    "engOptionLabel": "Color",
+    "vnOptionLabel": "Màu sắc",
+    "engOptionValue": "Black",
+    "vnOptionValue": "Đen",
+    "optionCode": "#000000"
+  },
+  {
+    "id": "00cb4565-7794-4a9d-b781-265874d298d7",
+    "optionType": 1,
+    "engOptionLabel": "Color",
+    "vnOptionLabel": "Màu sắc",
+    "engOptionValue": "White",
+    "vnOptionValue": "Trắng",
+    "optionCode": "#FFFFFF"
+  },
+  {
+    "id": "00db4565-7794-4a9d-b781-265874d298d7",
+    "optionType": 1,
+    "engOptionLabel": "Color",
+    "vnOptionLabel": "Màu sắc",
+    "engOptionValue": "Orange",
+    "vnOptionValue": "Cam",
+    "optionCode": "#FFA500"
+  },
+  {
+    "id": "00eb4565-7794-4a9d-b781-265874d298d7",
+    "optionType": 1,
+    "engOptionLabel": "Color",
+    "vnOptionLabel": "Màu sắc",
+    "engOptionValue": "Pink",
+    "vnOptionValue": "Hồng",
+    "optionCode": "#FFC0CB"
+  },
+  {
+    "id": "00fb4565-7794-4a9d-b781-265874d298d7",
+    "optionType": 1,
+    "engOptionLabel": "Color",
+    "vnOptionLabel": "Màu sắc",
+    "engOptionValue": "Brown",
+    "vnOptionValue": "Nâu",
+    "optionCode": "#A52A2A"
+  }
 ]
