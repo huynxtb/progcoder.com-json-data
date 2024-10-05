@@ -35,6 +35,13 @@
         "inputType": 6
     },
     {
+        "id": "011b4565-7794-4a9d-b781-265874d298d7",
+        "engName": "Warranty type",
+        "vnName": "Loại bảo hành",
+        "isRequired": false,
+        "inputType": 6
+    },
+    {
         "id": "006b4565-7794-4a9d-b781-265874d298d7",
         "engName": "Model",
         "vnName": "Model",
@@ -66,13 +73,6 @@
         "id": "010b4565-7794-4a9d-b781-265874d298d7",
         "engName": "Operating system",
         "vnName": "Hệ điều hành",
-        "isRequired": false,
-        "inputType": 6
-    },
-    {
-        "id": "011b4565-7794-4a9d-b781-265874d298d7",
-        "engName": "Warranty type",
-        "vnName": "Loại bảo hành",
         "isRequired": false,
         "inputType": 6
     },
