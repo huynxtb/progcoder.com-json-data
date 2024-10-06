@@ -8794,5 +8794,23 @@
         "engName": "Others",
         "vnName": "Phụ Kiện Máy Tính Khác",
         "parentId": "226b1f13-42dc-43ac-8b75-bea99ba8c633"
+    },
+    {
+        "id": "27da3979-0248-4934-8610-3db8b5a4f26b",
+        "engName": "Perfume",
+        "vnName": "Nước hoa",
+        "parentId": null
+    },
+    {
+        "id": "2316d3ea-3c54-49bd-b147-e50ca30bcf7b",
+        "engName": "Men's perfume",
+        "vnName": "Nước hoa name",
+        "parentId": "27da3979-0248-4934-8610-3db8b5a4f26b"
+    },
+    {
+        "id": "f0e18ef3-0283-457a-8679-5e24872236b9",
+        "engName": "Women's perfume",
+        "vnName": "Nước hoa nữ",
+        "parentId": "27da3979-0248-4934-8610-3db8b5a4f26b"
     }
 ]
