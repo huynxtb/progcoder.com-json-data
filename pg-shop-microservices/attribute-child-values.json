@@ -1,512 +1,5402 @@
 [
-    {
-        "id": "b29c0129-7e09-44c9-8d2f-2adb0f7fcf51",
-        "engName": "Japan",
-        "vnName": "Nhật Bản",
-        "parentId": "002b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "3f4d5338-0ef5-4b64-a35b-52649dec2fac",
-        "engName": "Mainland China",
-        "vnName": "Trung Quốc",
-        "parentId": "002b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "aa829635-1ef4-4114-b77c-32134b685b09",
-        "engName": "Korea",
-        "vnName": "Hàn Quốc",
-        "parentId": "002b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "12dc0df7-211c-4edc-a457-f6e513a75553",
-        "engName": "Indonesia",
-        "vnName": "Indonesia",
-        "parentId": "002b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "f5add13e-d22a-45b6-bd05-2d3c935c6e11",
-        "engName": "Others",
-        "vnName": "Khác",
-        "parentId": "002b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "61a498b4-8868-4ca5-a7cd-879aa67c02d7",
-        "engName": "America",
-        "vnName": "Mỹ",
-        "parentId": "002b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "8446162c-bb14-43eb-ba03-7cef2c6bb096",
-        "engName": "Taiwan",
-        "vnName": "Đài Loan",
-        "parentId": "002b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "d3f8e4ba-f28b-496e-b490-3937406b84fe",
-        "engName": "Thailand",
-        "vnName": "Thái Lan",
-        "parentId": "002b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "5d11acef-dab6-47f3-ba5a-a83899037ef9",
-        "engName": "Vietnam",
-        "vnName": "Việt Nam",
-        "parentId": "002b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "e5c3d06b-6843-4f24-99d6-95910add8111",
-        "engName": "India",
-        "vnName": "Ấn Độ",
-        "parentId": "002b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "4a982559-93a0-41e4-8f5b-65e05a8e3ec0",
-        "engName": "Bangladesh",
-        "vnName": "Băng-la-đét",
-        "parentId": "002b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "47c4446a-21e1-4293-804e-cbe00bc3b0db",
-        "engName": "Brasil",
-        "vnName": "Brasil",
-        "parentId": "002b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "e29dee41-724e-46a3-9420-ed2d91ec2423",
-        "engName": "Colombia",
-        "vnName": "Colombia",
-        "parentId": "002b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "29b4f065-5b5e-4f71-a1c9-190e4b49b8f5",
-        "engName": "Chile",
-        "vnName": "Chile",
-        "parentId": "002b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "f4f91a3b-1212-4dd6-925b-ab6f7b24278e",
-        "engName": "Argentina",
-        "vnName": "Argentina",
-        "parentId": "002b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "f652a40e-d359-4de9-9a8a-e0da5d6e0931",
-        "engName": "Mexico",
-        "vnName": "Mexico",
-        "parentId": "002b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "8f26374c-cfcb-4915-ab58-b421744a40aa",
-        "engName": "Nike",
-        "vnName": "Nike",
-        "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "e7cd240d-d0dc-43ce-81a4-6dbd193ba500",
-        "engName": "Adidas",
-        "vnName": "Adidas",
-        "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "95af7fba-03ec-4efc-b73f-c1fd4233ba14",
-        "engName": "Gucci",
-        "vnName": "Gucci",
-        "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "a89265e8-6193-420e-b3d6-59f6fbe9f315",
-        "engName": "Prada",
-        "vnName": "Prada",
-        "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "6f021bbd-821d-4067-898c-93357e083007",
-        "engName": "Apple",
-        "vnName": "Apple",
-        "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "90523ead-19e6-40c4-ad96-a637e4e58633",
-        "engName": "Samsung",
-        "vnName": "Samsung",
-        "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "1ccd39aa-5623-470d-8d06-d5ff46a21451",
-        "engName": "Google",
-        "vnName": "Google",
-        "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "3c177b67-f2e5-4b93-9f02-553148b6e28b",
-        "engName": "OnePlus",
-        "vnName": "OnePlus",
-        "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "9a3489c0-2c66-4f3b-97ea-20b6bec58405",
-        "engName": "Dell",
-        "vnName": "Dell",
-        "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "6b3b7ea2-fe48-47fc-be0c-420f6b10902b",
-        "engName": "HP",
-        "vnName": "HP",
-        "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "0ce94063-c213-4da9-a750-b0aff9f10ccb",
-        "engName": "Lenovo",
-        "vnName": "Lenovo",
-        "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "0a667bfc-7e48-4d72-9f67-263dc25cdd0e",
-        "engName": "Asus",
-        "vnName": "Asus",
-        "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "0aacb128-1e22-4677-b719-801d9b22d1b8",
-        "engName": "Chanel",
-        "vnName": "Chanel",
-        "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "25d8c32c-4c1f-483d-be9d-47c3c56d30a0",
-        "engName": "Dior",
-        "vnName": "Dior",
-        "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "a26cc3ef-a00e-41b3-a786-add752fb5e8d",
-        "engName": "Yves Saint Laurent",
-        "vnName": "Yves Saint Laurent",
-        "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "1ad37d08-6b23-478c-b7f2-3edf7041971a",
-        "engName": "Versace",
-        "vnName": "Versace",
-        "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "c502ee60-52f9-4738-a95d-b851a8621148",
-        "engName": "Tom Ford",
-        "vnName": "Tom Ford",
-        "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "bbb182b8-0de4-4893-b3ac-f0bce2764346",
-        "engName": "Jo Malone",
-        "vnName": "Jo Malone",
-        "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "f03b514f-e918-4e28-a132-c6fb9dd98362",
-        "engName": "Calvin Klein",
-        "vnName": "Calvin Klein",
-        "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "5f6fb56b-4df9-4376-aec5-a5a58b808856",
-        "engName": "Hermès",
-        "vnName": "Hermès",
-        "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "8c258fcd-f215-4672-8eee-ec9a473b6776",
-        "engName": "Zara",
-        "vnName": "Zara",
-        "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "8e974f72-ccd1-4687-88da-d0a46baf570f",
-        "engName": "HM",
-        "vnName": "HM",
-        "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "fc2ed098-c620-4242-8ebf-7f291aebe907",
-        "engName": "Dolce & Gabbana",
-        "vnName": "Dolce & Gabbana",
-        "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "2d6c938a-b1d2-4021-9cb6-4042525de30b",
-        "engName": "Hugo Boss",
-        "vnName": "Hugo Boss",
-        "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "bd033ccc-0a43-4e6f-aca7-f4617f9fbab3",
-        "engName": "Lacoste",
-        "vnName": "Lacoste",
-        "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "22fda47d-a418-4368-95fa-445913a8c689",
-        "engName": "Rolex",
-        "vnName": "Rolex",
-        "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "b6f2718e-6662-40f8-ba55-0351edd349b1",
-        "engName": "Patek Philippe",
-        "vnName": "Patek Philippe",
-        "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "bf175d36-694a-4649-8737-b423c29fff7c",
-        "engName": "Audemars Piguet",
-        "vnName": "Audemars Piguet",
-        "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "d81f962e-de60-4baa-9ca8-c1258e8ac054",
-        "engName": "Omega",
-        "vnName": "Omega",
-        "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "dad88d54-586d-4b72-a266-ae0a9a049da9",
-        "engName": "Tag Heuer",
-        "vnName": "Tag Heuer",
-        "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "d2f4c738-54cb-4720-9797-9a84ce99bb20",
-        "engName": "Cartier",
-        "vnName": "Cartier",
-        "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "54942ca6-eea1-4e07-acbb-86e697262dd1",
-        "engName": "IWC Schaffhausen",
-        "vnName": "IWC Schaffhausen",
-        "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "d16c1d40-27ad-483a-ba94-5958a0f8d3a0",
-        "engName": "Jaeger-LeCoultre",
-        "vnName": "Jaeger-LeCoultre",
-        "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "6121ca68-3db5-4f21-afc3-53b8aa9d010e",
-        "engName": "Breitling",
-        "vnName": "Breitling",
-        "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "0893c2da-c198-4f76-9e21-68da5d4e2bd9",
-        "engName": "Panerai",
-        "vnName": "Panerai",
-        "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "ead47b5b-7d41-48d6-b412-955fa79a79c8",
-        "engName": "Breguet",
-        "vnName": "Breguet",
-        "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "c4543def-6c16-4871-9b6c-b7ab5bbc3615",
-        "engName": "Hublot",
-        "vnName": "Hublot",
-        "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "eed79404-59fd-4ae5-9114-34e7184f1159",
-        "engName": "Vacheron Constantin",
-        "vnName": "Vacheron Constantin",
-        "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "1b3df73a-ca59-4218-986b-28eee6e727ae",
-        "engName": "Chopard",
-        "vnName": "Chopard",
-        "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "1f404cab-616b-481d-9940-da7a64bf4760",
-        "engName": "Richard Mille",
-        "vnName": "Richard Mille",
-        "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "a48d3399-0eb2-4334-acfc-e446f80642e8",
-        "engName": "Longines",
-        "vnName": "Longines",
-        "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "cac2ce40-7baa-4746-8d02-fade1ed9e6ca",
-        "engName": "Seiko",
-        "vnName": "Seiko",
-        "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "7582414a-61fd-4e42-aa35-a676d465e64d",
-        "engName": "Orient",
-        "vnName": "Orient",
-        "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "f76e2ae0-6167-4496-945b-6c08f00dedca",
-        "engName": "Windows",
-        "vnName": "Windows",
-        "parentId": "010b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "c126ea47-d1db-4be2-9532-a9037fea7d7d",
-        "engName": "macOS",
-        "vnName": "macOS",
-        "parentId": "010b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "b4f52422-7524-4eea-a7ce-37e304c77c2e",
-        "engName": "Ubuntu",
-        "vnName": "Ubuntu",
-        "parentId": "010b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "3a1cd906-52e2-4457-bb80-ca0b3cf825da",
-        "engName": "Fedora",
-        "vnName": "Fedora",
-        "parentId": "010b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "cdcca4d5-8f4f-4688-9bae-efa3eae40560",
-        "engName": "Android",
-        "vnName": "Android",
-        "parentId": "010b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "bba05123-2ea4-4f2c-8c90-8c733e10b150",
-        "engName": "iOS",
-        "vnName": "iOS",
-        "parentId": "010b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "bba05100-2ea4-4f2c-8c90-8c733e10b150",
-        "engName": "BlackBerry",
-        "vnName": "BlackBerry",
-        "parentId": "010b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "fda80159-8d53-4812-9dfa-3c1ae39a5795",
-        "engName": "Windows Phone",
-        "vnName": "Windows Phone",
-        "parentId": "010b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "37961ffe-5d8d-49d1-8edc-aab83e027f72",
-        "engName": "HarmonyOS",
-        "vnName": "HarmonyOS",
-        "parentId": "010b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "74ca1506-d513-4272-9ca2-4fe1f8124bfc",
-        "engName": "International Warranty",
-        "vnName": "Bảo hành quốc tế",
-        "parentId": "011b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "962ccb89-b156-4910-b11a-d38fe7924a26",
-        "engName": "Manufacturer Warranty",
-        "vnName": "Bảo hành nhà sản xuất",
-        "parentId": "011b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "11e6a486-148f-49c3-b445-f4d0b1a78ef9",
-        "engName": "Supplier Warranty",
-        "vnName": "Bảo hành nhà cung cấp",
-        "parentId": "011b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "095ee104-0998-44bc-b60d-fa3ed7086db0",
-        "engName": "No Warranty",
-        "vnName": "Không bảo hành",
-        "parentId": "011b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "67161817-ac91-444f-a367-01159d3d2a98",
-        "engName": "1 Month",
-        "vnName": "1 tháng",
-        "parentId": "005b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "7340c772-01f4-4a82-bf02-f5b8699c1ca4",
-        "engName": "2 Months",
-        "vnName": "2 tháng",
-        "parentId": "005b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "067dedcf-f0e8-42b5-84f3-6ee8ec18ac02",
-        "engName": "3 Months",
-        "vnName": "3 tháng",
-        "parentId": "005b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "a1590f57-ce36-4530-9b9f-cb00c1a2c884",
-        "engName": "6 Months",
-        "vnName": "6 tháng",
-        "parentId": "005b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "5a7fe48b-6616-4828-936a-6a8de69ad52e",
-        "engName": "12 Months",
-        "vnName": "12 tháng",
-        "parentId": "005b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "35c6a3b5-4dbb-4dc9-8a48-acee5d02dc2b",
-        "engName": "24 Months",
-        "vnName": "24 tháng",
-        "parentId": "005b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "27de9ef7-c32a-4205-b53d-1317a9169e8e",
-        "engName": "3 Years",
-        "vnName": "3 năm",
-        "parentId": "005b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "a215d4cd-1778-427f-8215-78365bd0b9fa",
-        "engName": "5 Years",
-        "vnName": "5 năm",
-        "parentId": "005b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "615e1a77-a536-46df-939e-0a30fee5ae8a",
-        "engName": "No Warranty",
-        "vnName": "Không bảo hành",
-        "parentId": "005b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "950354e1-3daa-4968-be74-d0afc94e9e7b",
-        "engName": "New",
-        "vnName": "Mới 100%",
-        "parentId": "012b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "9683474d-0d6f-41c9-a757-c72be694af5a",
-        "engName": "Like new",
-        "vnName": "Like new",
-        "parentId": "012b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "04372cca-932a-4626-91e9-9e56eb37d62b",
-        "engName": "Secondhand",
-        "vnName": "Đã qua sử dụng",
-        "parentId": "012b4565-7794-4a9d-b781-265874d298d7"
-    },
-    {
-        "id": "2feb5e3f-a25b-419f-b0b6-d8ba97674315",
-        "engName": "Old",
-        "vnName": "Cũ",
-        "parentId": "012b4565-7794-4a9d-b781-265874d298d7"
-    }
+  {
+    "id": "b29c0129-7e09-44c9-8d2f-2adb0f7fcf51",
+    "engName": "Japan",
+    "vnName": "Nhật Bản",
+    "parentId": "002b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "3f4d5338-0ef5-4b64-a35b-52649dec2fac",
+    "engName": "Mainland China",
+    "vnName": "Trung Quốc",
+    "parentId": "002b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "aa829635-1ef4-4114-b77c-32134b685b09",
+    "engName": "Korea",
+    "vnName": "Hàn Quốc",
+    "parentId": "002b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "12dc0df7-211c-4edc-a457-f6e513a75553",
+    "engName": "Indonesia",
+    "vnName": "Indonesia",
+    "parentId": "002b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "f5add13e-d22a-45b6-bd05-2d3c935c6e11",
+    "engName": "Others",
+    "vnName": "Khác",
+    "parentId": "002b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "61a498b4-8868-4ca5-a7cd-879aa67c02d7",
+    "engName": "America",
+    "vnName": "Mỹ",
+    "parentId": "002b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "8446162c-bb14-43eb-ba03-7cef2c6bb096",
+    "engName": "Taiwan",
+    "vnName": "Đài Loan",
+    "parentId": "002b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "d3f8e4ba-f28b-496e-b490-3937406b84fe",
+    "engName": "Thailand",
+    "vnName": "Thái Lan",
+    "parentId": "002b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "5d11acef-dab6-47f3-ba5a-a83899037ef9",
+    "engName": "Vietnam",
+    "vnName": "Việt Nam",
+    "parentId": "002b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "e5c3d06b-6843-4f24-99d6-95910add8111",
+    "engName": "India",
+    "vnName": "Ấn Độ",
+    "parentId": "002b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "4a982559-93a0-41e4-8f5b-65e05a8e3ec0",
+    "engName": "Bangladesh",
+    "vnName": "Băng-la-đét",
+    "parentId": "002b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "47c4446a-21e1-4293-804e-cbe00bc3b0db",
+    "engName": "Brasil",
+    "vnName": "Brasil",
+    "parentId": "002b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "e29dee41-724e-46a3-9420-ed2d91ec2423",
+    "engName": "Colombia",
+    "vnName": "Colombia",
+    "parentId": "002b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "29b4f065-5b5e-4f71-a1c9-190e4b49b8f5",
+    "engName": "Chile",
+    "vnName": "Chile",
+    "parentId": "002b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "f4f91a3b-1212-4dd6-925b-ab6f7b24278e",
+    "engName": "Argentina",
+    "vnName": "Argentina",
+    "parentId": "002b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "f652a40e-d359-4de9-9a8a-e0da5d6e0931",
+    "engName": "Mexico",
+    "vnName": "Mexico",
+    "parentId": "002b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "f76e2ae0-6167-4496-945b-6c08f00dedca",
+    "engName": "Windows",
+    "vnName": "Windows",
+    "parentId": "010b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "c126ea47-d1db-4be2-9532-a9037fea7d7d",
+    "engName": "macOS",
+    "vnName": "macOS",
+    "parentId": "010b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "b4f52422-7524-4eea-a7ce-37e304c77c2e",
+    "engName": "Ubuntu",
+    "vnName": "Ubuntu",
+    "parentId": "010b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "3a1cd906-52e2-4457-bb80-ca0b3cf825da",
+    "engName": "Fedora",
+    "vnName": "Fedora",
+    "parentId": "010b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "cdcca4d5-8f4f-4688-9bae-efa3eae40560",
+    "engName": "Android",
+    "vnName": "Android",
+    "parentId": "010b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "bba05123-2ea4-4f2c-8c90-8c733e10b150",
+    "engName": "iOS",
+    "vnName": "iOS",
+    "parentId": "010b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "bba05100-2ea4-4f2c-8c90-8c733e10b150",
+    "engName": "BlackBerry",
+    "vnName": "BlackBerry",
+    "parentId": "010b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "fda80159-8d53-4812-9dfa-3c1ae39a5795",
+    "engName": "Windows Phone",
+    "vnName": "Windows Phone",
+    "parentId": "010b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "37961ffe-5d8d-49d1-8edc-aab83e027f72",
+    "engName": "HarmonyOS",
+    "vnName": "HarmonyOS",
+    "parentId": "010b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "74ca1506-d513-4272-9ca2-4fe1f8124bfc",
+    "engName": "International Warranty",
+    "vnName": "Bảo hành quốc tế",
+    "parentId": "011b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "962ccb89-b156-4910-b11a-d38fe7924a26",
+    "engName": "Manufacturer Warranty",
+    "vnName": "Bảo hành nhà sản xuất",
+    "parentId": "011b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "11e6a486-148f-49c3-b445-f4d0b1a78ef9",
+    "engName": "Supplier Warranty",
+    "vnName": "Bảo hành nhà cung cấp",
+    "parentId": "011b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "095ee104-0998-44bc-b60d-fa3ed7086db0",
+    "engName": "No Warranty",
+    "vnName": "Không bảo hành",
+    "parentId": "011b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "67161817-ac91-444f-a367-01159d3d2a98",
+    "engName": "1 Month",
+    "vnName": "1 tháng",
+    "parentId": "005b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "7340c772-01f4-4a82-bf02-f5b8699c1ca4",
+    "engName": "2 Months",
+    "vnName": "2 tháng",
+    "parentId": "005b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "067dedcf-f0e8-42b5-84f3-6ee8ec18ac02",
+    "engName": "3 Months",
+    "vnName": "3 tháng",
+    "parentId": "005b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "a1590f57-ce36-4530-9b9f-cb00c1a2c884",
+    "engName": "6 Months",
+    "vnName": "6 tháng",
+    "parentId": "005b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "5a7fe48b-6616-4828-936a-6a8de69ad52e",
+    "engName": "12 Months",
+    "vnName": "12 tháng",
+    "parentId": "005b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "35c6a3b5-4dbb-4dc9-8a48-acee5d02dc2b",
+    "engName": "24 Months",
+    "vnName": "24 tháng",
+    "parentId": "005b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "27de9ef7-c32a-4205-b53d-1317a9169e8e",
+    "engName": "3 Years",
+    "vnName": "3 năm",
+    "parentId": "005b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "a215d4cd-1778-427f-8215-78365bd0b9fa",
+    "engName": "5 Years",
+    "vnName": "5 năm",
+    "parentId": "005b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "615e1a77-a536-46df-939e-0a30fee5ae8a",
+    "engName": "No Warranty",
+    "vnName": "Không bảo hành",
+    "parentId": "005b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "950354e1-3daa-4968-be74-d0afc94e9e7b",
+    "engName": "New",
+    "vnName": "Mới 100%",
+    "parentId": "012b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "9683474d-0d6f-41c9-a757-c72be694af5a",
+    "engName": "Like new",
+    "vnName": "Like new",
+    "parentId": "012b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "04372cca-932a-4626-91e9-9e56eb37d62b",
+    "engName": "Secondhand",
+    "vnName": "Đã qua sử dụng",
+    "parentId": "012b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "2feb5e3f-a25b-419f-b0b6-d8ba97674315",
+    "engName": "Old",
+    "vnName": "Cũ",
+    "parentId": "012b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "64fd1158-8ca9-4be3-8ce6-527376908b5e",
+    "engName": "Azzaro",
+    "vnName": "Azzaro",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "d0a421c3-688b-46d4-968c-1db09da8ec19",
+    "engName": "AZ Collection Italy",
+    "vnName": "AZ Collection Italy",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "7eaeb6d6-04a4-468c-b10c-8794643c065d",
+    "engName": "Axxzia",
+    "vnName": "Axxzia",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "899e1241-5574-4913-bc26-263aed3ea6d4",
+    "engName": "Avène",
+    "vnName": "Avène",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "71e9387c-e852-470c-bb5f-48f4dfc4da50",
+    "engName": "Aveda",
+    "vnName": "Aveda",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "494b1fc1-66d6-4ccc-8e54-6cdd7dee0ff2",
+    "engName": "Aurora",
+    "vnName": "Aurora",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "825f058b-a33b-43aa-a2e7-a57d73a890ac",
+    "engName": "Augustinus Bader",
+    "vnName": "Augustinus Bader",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "e8bda785-d837-4808-b40f-026f6a3c8928",
+    "engName": "Audemars Piguet",
+    "vnName": "Audemars Piguet",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "539c571e-9652-4fb3-bad9-0d051c7cb862",
+    "engName": "Au Départ",
+    "vnName": "Au Départ",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "b3a20a07-7d8a-419a-b901-f8487f397fe4",
+    "engName": "Attar Collection",
+    "vnName": "Attar Collection",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "134bc478-6dae-41d0-84a1-aacdb8bf6efb",
+    "engName": "Atkinsons",
+    "vnName": "Atkinsons",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "d1220a3c-b51d-4813-a8bb-e83161498bb6",
+    "engName": "Atelier Cologne",
+    "vnName": "Atelier Cologne",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "4df4fbe8-7d33-4c33-a775-93860039f0a8",
+    "engName": "Asics",
+    "vnName": "Asics",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "8ceba11c-5609-434d-b84a-72bdebba022b",
+    "engName": "Asap",
+    "vnName": "Asap",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "bd53205f-821e-4112-b87c-eda210598dd6",
+    "engName": "Artistic&Co",
+    "vnName": "Artistic&Co",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "10330b5d-ea64-4762-a573-e44d3a523c65",
+    "engName": "Artist Couture",
+    "vnName": "Artist Couture",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "c10fecb9-0413-48bb-9445-c7e8badae6b4",
+    "engName": "Aromatica",
+    "vnName": "Aromatica",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "c34829ba-e328-45e5-bf18-dccea29050e3",
+    "engName": "Arnold & Son",
+    "vnName": "Arnold & Son",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "8705c373-234e-44ad-9fdf-3c68094ee3a6",
+    "engName": "Armitron",
+    "vnName": "Armitron",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "f4dad211-60a2-40d8-96f5-4c428599a866",
+    "engName": "Armani Jeans",
+    "vnName": "Armani Jeans",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "16dbbda2-bab6-4a5b-8e0c-ee04d5b3d443",
+    "engName": "Armani Exchange",
+    "vnName": "Armani Exchange",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "67473d3e-f376-431b-93d6-5026b9ab16fe",
+    "engName": "Armand Nicolet",
+    "vnName": "Armand Nicolet",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "3beb1642-f50f-423e-8199-b307ff5d1b43",
+    "engName": "Armaf",
+    "vnName": "Armaf",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "02e15cf8-876b-464a-9eef-43a0f9c5f0ac",
+    "engName": "Ariana Grande",
+    "vnName": "Ariana Grande",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "79e10d50-bf46-4ad4-a0b3-e7cab8a1a648",
+    "engName": "Argos",
+    "vnName": "Argos",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "3f35b7c9-2c04-4168-963a-d0d606ee8f44",
+    "engName": "Apple",
+    "vnName": "Apple",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "ac6d4e35-ad9e-429e-a653-5e3814944569",
+    "engName": "Anubis",
+    "vnName": "Anubis",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "d1d5b6bf-983f-47a6-802b-9657bc358ae6",
+    "engName": "AnteAGE",
+    "vnName": "AnteAGE",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "1fc42652-a960-4443-ae49-22e9efa667db",
+    "engName": "Anne Klein",
+    "vnName": "Anne Klein",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "f5b4e22c-05bf-4b02-ad5b-6c50461c8c3a",
+    "engName": "Anna Sui",
+    "vnName": "Anna Sui",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "8ef9c55d-e6ce-46c2-a87d-60502dbe0228",
+    "engName": "Anessa",
+    "vnName": "Anessa",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "68563d88-4fb7-4f70-a287-4541041b26f2",
+    "engName": "Andrew Marc",
+    "vnName": "Andrew Marc",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "5d0dfd15-1b13-405e-84e1-487f436c7e65",
+    "engName": "Anastasia Beverly Hills",
+    "vnName": "Anastasia Beverly Hills",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "8f86fbb9-4725-458f-ad83-fc6efd6fe202",
+    "engName": "Amouage",
+    "vnName": "Amouage",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "63589315-ace7-4622-a586-c44e9430c6ab",
+    "engName": "Amiri",
+    "vnName": "Amiri",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "f906c95b-367d-4e1f-b282-8d8ed21a304b",
+    "engName": "Amina Muaddi",
+    "vnName": "Amina Muaddi",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "48c66927-bfe0-442e-8600-9813a57a6a8e",
+    "engName": "Amika",
+    "vnName": "Amika",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "cdc0fe51-3202-43a9-82af-3179e963046f",
+    "engName": "Ami",
+    "vnName": "Ami",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "5d201e30-e117-4249-be77-f7f4d8bfc9ab",
+    "engName": "Alpina",
+    "vnName": "Alpina",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "ccba8c5b-cd62-438c-bfed-1c2dd7c10b04",
+    "engName": "Algenist",
+    "vnName": "Algenist",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "ed7fdddc-7a81-48c5-8016-17b42a0a6ed9",
+    "engName": "Alfred Sung",
+    "vnName": "Alfred Sung",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "6e9edf9f-f124-4f8b-bfe3-b0270a06f53f",
+    "engName": "Alfani",
+    "vnName": "Alfani",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "e0be3963-fcbc-497b-b704-84c7c75e54ca",
+    "engName": "Alexandria Fragrances",
+    "vnName": "Alexandria Fragrances",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "82df112e-4a9d-4430-91d7-e8fad0bd0c6a",
+    "engName": "Alexander Wang",
+    "vnName": "Alexander Wang",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "6f9cebf8-f6ad-4435-af98-133cd17bac65",
+    "engName": "Alexander Mcqueen",
+    "vnName": "Alexander Mcqueen",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "6773f8f3-2139-4ac5-958f-04060a68dc72",
+    "engName": "Alessandra Rich",
+    "vnName": "Alessandra Rich",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "d4be412e-b8a2-49f2-b62f-6614f5229f50",
+    "engName": "Aldo",
+    "vnName": "Aldo",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "6214cf97-997f-402c-a96c-773ea82c3597",
+    "engName": "Albion",
+    "vnName": "Albion",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "3825475e-8fec-43f9-b3c0-15bbf431af2f",
+    "engName": "Alaia Paris",
+    "vnName": "Alaia Paris",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "f5dfe900-93e0-4bd4-ad35-29eb993fd5d4",
+    "engName": "Al Haramain",
+    "vnName": "Al Haramain",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "1a6c4890-3c39-4753-9ade-27816ac2e1cc",
+    "engName": "Akribos XXIV",
+    "vnName": "Akribos XXIV",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "7b4c0f1d-03c4-4597-a3b6-05d022b669ae",
+    "engName": "Ahohwa",
+    "vnName": "Ahohwa",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "02187153-295c-4bf7-941a-e2d29b708d58",
+    "engName": "AHC",
+    "vnName": "AHC",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "be719cde-b337-4e41-ab99-9e6d9daec6f7",
+    "engName": "Agelocer",
+    "vnName": "Agelocer",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "4a53110e-9ff7-4ce1-b240-82fd9b60920a",
+    "engName": "Afnan Perfumes",
+    "vnName": "Afnan Perfumes",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "a935829c-5d35-491f-a02e-362b6aa0369e",
+    "engName": "Adidas",
+    "vnName": "Adidas",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "84a2dc58-e068-48d4-9652-11229fbb7059",
+    "engName": "Acqua Di Parma",
+    "vnName": "Acqua Di Parma",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "5a154cf5-50ed-44dd-9c60-dd362dc1e0f0",
+    "engName": "Acmé De La Vie",
+    "vnName": "Acmé De La Vie",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "dc97c34b-e455-453a-a640-8d7067a309ce",
+    "engName": "Abercrombie & Fitch",
+    "vnName": "Abercrombie & Fitch",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "1a6b370f-23af-40b7-b8c5-8ec7d2cfaf8d",
+    "engName": "A-Derma",
+    "vnName": "A-Derma",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "db9a073d-9aa4-4bb5-a7eb-aed88d0a4fe9",
+    "engName": "Byredo",
+    "vnName": "Byredo",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "9b010a32-a7eb-40fc-8096-1ce6b7308474",
+    "engName": "By Far",
+    "vnName": "By Far",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "b283f6df-b879-4f24-9c48-17f0b3322f82",
+    "engName": "Bvlgari",
+    "vnName": "Bvlgari",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "e0ea2642-5927-47a8-b58b-d179de91ff0c",
+    "engName": "Butterfly Thai Perfume",
+    "vnName": "Butterfly Thai Perfume",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "40258fa1-2603-4032-b1c5-079da4f7ccff",
+    "engName": "Burgi",
+    "vnName": "Burgi",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "99ba0b35-3cdb-4149-8f9f-2485a49c6b53",
+    "engName": "Burberry",
+    "vnName": "Burberry",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "0ebebceb-7d89-4cf5-9723-ae6d63bb5ada",
+    "engName": "Bumble And Bumble",
+    "vnName": "Bumble And Bumble",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "893f6938-963c-4e84-85f6-8a5589587065",
+    "engName": "Bulova",
+    "vnName": "Bulova",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "b8b60f27-475f-46c0-8cb5-4813a856d5b3",
+    "engName": "BRONX Fashion",
+    "vnName": "BRONX Fashion",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "9181e343-a75d-4f05-973d-da791b782789",
+    "engName": "Britney Spears",
+    "vnName": "Britney Spears",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "21289b7d-ae4b-45d8-8465-f10fcac32bb3",
+    "engName": "Briogeo",
+    "vnName": "Briogeo",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "6319d98f-1337-4616-98e8-a46aa9799f33",
+    "engName": "Breitling",
+    "vnName": "Breitling",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "e4b9de9a-c6c3-41ca-a67d-289d61816967",
+    "engName": "Breguet",
+    "vnName": "Breguet",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "685d94fc-8d0f-4fa8-976f-238f42ccbb53",
+    "engName": "Breed",
+    "vnName": "Breed",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "ab785165-1b42-47ee-ba38-012d4502558f",
+    "engName": "Bread beauty",
+    "vnName": "Bread beauty",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "d93d96c7-1c26-4627-be15-5d7564693303",
+    "engName": "Brave Soul",
+    "vnName": "Brave Soul",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "c04d23fd-c3a7-438e-a27a-a747f7f5ca42",
+    "engName": "Braun",
+    "vnName": "Braun",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "242ba062-e948-4f6a-ae47-e7db6b779e78",
+    "engName": "Bottega Veneta",
+    "vnName": "Bottega Veneta",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "37d7d75a-5e9a-46c6-8f3a-4914b3fa80cc",
+    "engName": "Boohooman",
+    "vnName": "Boohooman",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "e55ce17b-c420-4987-9259-bccfb5e42a82",
+    "engName": "Bonest Gatti",
+    "vnName": "Bonest Gatti",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "2369cd59-71b3-4595-8dca-db89ac2506a2",
+    "engName": "Bond No.9",
+    "vnName": "Bond No.9",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "a19fd23e-12af-492d-a800-3b439c4643fe",
+    "engName": "Bomberg",
+    "vnName": "Bomberg",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "ade05e59-d35e-4aef-b994-ed031b644ac3",
+    "engName": "Bolongaro Trevor",
+    "vnName": "Bolongaro Trevor",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "14ee5258-0e35-468c-88e2-ca37174417a2",
+    "engName": "Bolon",
+    "vnName": "Bolon",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "9321d94a-df65-486f-9799-29436de22804",
+    "engName": "Boldr",
+    "vnName": "Boldr",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "be8d3311-6a3d-4138-9b1f-e4aec2f40a4c",
+    "engName": "Bobbi Brown",
+    "vnName": "Bobbi Brown",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "d6e38e2e-8515-460a-bf83-3320a82ba0c0",
+    "engName": "Boadicea The Victorious",
+    "vnName": "Boadicea The Victorious",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "040f1ebb-f3b7-481f-ac48-cbf98d84970c",
+    "engName": "BMW",
+    "vnName": "BMW",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "fbd0bf1c-b192-4671-bf4f-182c5899bc6c",
+    "engName": "BloomingDales",
+    "vnName": "BloomingDales",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "fcff8b27-ce17-4425-81b7-28d49da124c2",
+    "engName": "Bite Beauty",
+    "vnName": "Bite Beauty",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "3cf19176-a6b9-49e4-ad04-e2c21dc83a2c",
+    "engName": "Biotrade",
+    "vnName": "Biotrade",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "cd613a0f-b830-43c2-8fef-e8c4d548b0c3",
+    "engName": "BioRePeelCl3",
+    "vnName": "BioRePeelCl3",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "76b1493f-8692-4bd2-98f5-190812727c28",
+    "engName": "Biologique Recherche",
+    "vnName": "Biologique Recherche",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "5f0b7ff4-ed9c-4d6c-bce0-84b5aaf91095",
+    "engName": "BIOJUVE",
+    "vnName": "BIOJUVE",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "cc9e22d7-0bb0-43c2-a7c0-6293151029e5",
+    "engName": "Bioderma",
+    "vnName": "Bioderma",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "38e9a07b-773f-433c-965d-4aef2e7114af",
+    "engName": "Bio‑Oil",
+    "vnName": "Bio‑Oil",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "057a800b-a575-4e73-ac35-0ed677530e10",
+    "engName": "Billie Eilish",
+    "vnName": "Billie Eilish",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "48dfccf5-b44d-443d-a93b-cf64baeea134",
+    "engName": "Bikkembergs",
+    "vnName": "Bikkembergs",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "bafd62a6-9ac4-4704-8f1d-bc87b1e01a3a",
+    "engName": "Bidi Badu",
+    "vnName": "Bidi Badu",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "30f9cd6d-a681-48ca-aea8-43700f5528e6",
+    "engName": "Biagini",
+    "vnName": "Biagini",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "8f8365da-89cc-4b2f-a086-91fe8bc9b6b4",
+    "engName": "BH Cosmetics",
+    "vnName": "BH Cosmetics",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "10360216-e763-46a8-a155-c984eb8bbf54",
+    "engName": "Bertha",
+    "vnName": "Bertha",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "c92a45f4-60a0-41c8-a40a-7b4cdf69cab9",
+    "engName": "Bershka",
+    "vnName": "Bershka",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "6795d396-178d-4969-aba3-1d495d187107",
+    "engName": "Berdoues",
+    "vnName": "Berdoues",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "c749cecf-134d-4b53-957d-ae79d331433f",
+    "engName": "Bentley",
+    "vnName": "Bentley",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "1786c402-5262-46f0-8be7-39e8a579f1fa",
+    "engName": "Benigna Parfums",
+    "vnName": "Benigna Parfums",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "00710558-662a-4c0d-bc0b-1926fb40e675",
+    "engName": "Benefit Cosmetics",
+    "vnName": "Benefit Cosmetics",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "91b38bc0-610d-452b-b7cd-801d9ef5c0a1",
+    "engName": "Belulu",
+    "vnName": "Belulu",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "2d71625f-77c3-4837-a7e4-ed49e58c1b30",
+    "engName": "Bella Aurora",
+    "vnName": "Bella Aurora",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "f33f94e9-294e-4f2a-8732-0d23324bcf9a",
+    "engName": "Beentrill",
+    "vnName": "Beentrill",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "6e292e76-d947-45b5-bdc9-5c2915f1fbb1",
+    "engName": "Bearbrick",
+    "vnName": "Bearbrick",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "36fe8786-ba54-4acd-9d20-232745cf44d0",
+    "engName": "Be Classy",
+    "vnName": "Be Classy",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "d3ba32be-7cd3-41f5-b9c9-e45e62b499fb",
+    "engName": "Bath & Body Works",
+    "vnName": "Bath & Body Works",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "842814b0-9074-4458-8c9c-d95be26ea0b2",
+    "engName": "Bape",
+    "vnName": "Bape",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "b8b4e635-8e0d-4e79-a5c8-57b942645aa9",
+    "engName": "Banana Republic",
+    "vnName": "Banana Republic",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "d348cc16-4c97-46f7-8818-ef803f28ab78",
+    "engName": "Balmain",
+    "vnName": "Balmain",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "561b8734-86aa-457b-8b06-67aef29ac665",
+    "engName": "Bally",
+    "vnName": "Bally",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "bf20a6f5-b888-4532-9ee0-be613a84c416",
+    "engName": "Ball",
+    "vnName": "Ball",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "9d97bdac-68ce-4ac8-b3aa-6deaa0afb49c",
+    "engName": "Balenciaga",
+    "vnName": "Balenciaga",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "90d719bd-4ac7-4393-a007-d8ea04f6e09e",
+    "engName": "Badblood",
+    "vnName": "Badblood",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "343e42af-f3fa-45f2-8409-5992fc4d4f75",
+    "engName": "Baby Three",
+    "vnName": "Baby Three",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "400eb286-43d6-48bc-b5e3-9e1ea2892e48",
+    "engName": "Babe Laboratorios",
+    "vnName": "Babe Laboratorios",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "dd0a4a96-91d8-4e14-94f0-df58766d89f3",
+    "engName": "Cure",
+    "vnName": "Cure",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "13333c64-8038-430a-8ec8-68eb0160fd20",
+    "engName": "Cult Gaia",
+    "vnName": "Cult Gaia",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "3ef381c9-f036-411c-af13-5166f74f0b59",
+    "engName": "Cross Colours",
+    "vnName": "Cross Colours",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "52514e4c-7989-4226-9526-f7d752994294",
+    "engName": "Cronus Art",
+    "vnName": "Cronus Art",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "f0b77d7f-9605-46c1-bd89-8e33ea4ff2fd",
+    "engName": "Crocs",
+    "vnName": "Crocs",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "5d4c2447-ad13-4ee3-ba20-b0a2f62e5f64",
+    "engName": "Creed",
+    "vnName": "Creed",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "d4d140c1-5d27-4ec5-985c-338ec2f9c350",
+    "engName": "CRBN",
+    "vnName": "CRBN",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "ea91b7d8-e72a-4aac-a7e3-bb67eba907e4",
+    "engName": "CQTOYS",
+    "vnName": "CQTOYS",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "08cef52e-c1ba-4cc2-8ff1-b683e5a84996",
+    "engName": "Cosrx",
+    "vnName": "Cosrx",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "f3c55fc1-0dd7-4f89-9683-870af095b7c4",
+    "engName": "Cosmoderma",
+    "vnName": "Cosmoderma",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "6612b7db-de78-455e-a053-a00245d206d0",
+    "engName": "Cosmetics Skin Solutions",
+    "vnName": "Cosmetics Skin Solutions",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "dbadfcf1-d3d6-4f87-9e12-1ccb9f7812f0",
+    "engName": "Corthe",
+    "vnName": "Corthe",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "7c36d369-e1e8-408f-9353-a254d8e0cc91",
+    "engName": "Corniche",
+    "vnName": "Corniche",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "e61d857d-685d-403d-b714-f6039a419ff5",
+    "engName": "Converse",
+    "vnName": "Converse",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "35f976b3-6762-4fef-91e8-9472128c92b8",
+    "engName": "Comfort Zone",
+    "vnName": "Comfort Zone",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "6e4ca379-3aad-4501-9953-dc1a5809f43e",
+    "engName": "Color Wow",
+    "vnName": "Color Wow",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "b0fe5122-9d22-46b7-ab93-140c8d732e09",
+    "engName": "Cole Haan",
+    "vnName": "Cole Haan",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "5b1c7b17-c66d-4510-b985-f92295211a08",
+    "engName": "Coca-Cola",
+    "vnName": "Coca-Cola",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "bcd5772a-5771-410c-8a83-c2536cab169c",
+    "engName": "Coach",
+    "vnName": "Coach",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "a9e1d91e-fabb-4e7f-bddc-40749f3d2812",
+    "engName": "Clive Christian",
+    "vnName": "Clive Christian",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "0060acd3-f6da-4e4c-a38c-39be56141a42",
+    "engName": "Clinique",
+    "vnName": "Clinique",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "a9acf272-26de-40cd-acc2-6b4d05a35947",
+    "engName": "Clé De Peau",
+    "vnName": "Clé De Peau",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "10608b6b-92c5-498f-80ba-05294d5165e3",
+    "engName": "Clarks",
+    "vnName": "Clarks",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "4bfcd776-9f3e-4c84-b3d5-a5a0b154f90a",
+    "engName": "Clarins",
+    "vnName": "Clarins",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "28fb39de-a53e-4ffc-9ce8-7c6d7ec96668",
+    "engName": "Civasan",
+    "vnName": "Civasan",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "e2326342-6a1e-42e0-ac34-2cd6f23ded05",
+    "engName": "City Rhythm",
+    "vnName": "City Rhythm",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "3cf4f891-0a6c-41c8-9a2d-19fec1932012",
+    "engName": "Citizen",
+    "vnName": "Citizen",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "33b29ecf-5e70-4b0a-a0ff-0e3f84b30aba",
+    "engName": "Cipo & Baxx",
+    "vnName": "Cipo & Baxx",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "f889c4ae-95f5-4c27-a401-f19928f84c52",
+    "engName": "Chrome Hearts",
+    "vnName": "Chrome Hearts",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "9e5f59cf-d35d-4260-ad0c-402a045cab14",
+    "engName": "Christina",
+    "vnName": "Christina",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "12f2638d-21ad-4252-b4d1-6dfe283520ac",
+    "engName": "Christian Van Sant",
+    "vnName": "Christian Van Sant",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "ce333c74-b27d-49e5-8716-73b473333042",
+    "engName": "Christian Louboutin",
+    "vnName": "Christian Louboutin",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "69785bf1-ef9e-4167-9d6f-1aad99638875",
+    "engName": "Chopard",
+    "vnName": "Chopard",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "61e4c2b9-57a4-45d0-a2ff-dd697f5e24dc",
+    "engName": "Chloé",
+    "vnName": "Chloé",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "3d4a5ef0-aeb9-4ece-b532-f7f328c165f7",
+    "engName": "Chiara Ferragni",
+    "vnName": "Chiara Ferragni",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "4f39f3f4-4fd0-47a8-8b1e-508899278484",
+    "engName": "Chaumet",
+    "vnName": "Chaumet",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "2957c92d-0a92-4b68-8300-a15f85fb3a73",
+    "engName": "Chasing Scents",
+    "vnName": "Chasing Scents",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "5830d9b0-fb7c-43f0-ae3b-33603d88c44c",
+    "engName": "Charriol",
+    "vnName": "Charriol",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "1e8011f6-e079-4be7-a0ad-d7e2c32e086c",
+    "engName": "Charlotte Tilbury",
+    "vnName": "Charlotte Tilbury",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "58b32a0f-9584-4145-8ab3-f94ecab92272",
+    "engName": "Charles & Keith",
+    "vnName": "Charles & Keith",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "b883c54d-2fc3-4016-bca1-0b101d000c65",
+    "engName": "Chanel",
+    "vnName": "Chanel",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "bb608833-5efb-4a83-8f2a-859953f2d77f",
+    "engName": "Champion",
+    "vnName": "Champion",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "1e1db23e-a4e5-403c-b6a2-1d24873439d4",
+    "engName": "Chacott",
+    "vnName": "Chacott",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "209e25ea-47a9-49b4-9584-f8f678e1031f",
+    "engName": "Certina",
+    "vnName": "Certina",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "d8285de9-614a-4e3a-bb69-9ad7b6fea2d5",
+    "engName": "Cerave",
+    "vnName": "Cerave",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "7e218426-e94b-4b20-ae5e-bf64661d9f76",
+    "engName": "Cemôy",
+    "vnName": "Cemôy",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "872cfa13-247c-4537-8f03-675616dd2d2e",
+    "engName": "Cellcosmet & Cellmen",
+    "vnName": "Cellcosmet & Cellmen",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "e102bbb8-294a-4d4a-be78-5d14d24e7e71",
+    "engName": "Celine",
+    "vnName": "Celine",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "e60c34e1-8187-4eaa-816f-36b0ec98de36",
+    "engName": "Cedar Crest",
+    "vnName": "Cedar Crest",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "b9d4b285-0182-4b03-bce0-d3f0186f0845",
+    "engName": "Cavalli Class",
+    "vnName": "Cavalli Class",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "8dfcfe1f-29aa-415e-b088-655d27af80f1",
+    "engName": "Caudalie",
+    "vnName": "Caudalie",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "086a129e-c86b-4c17-924d-1c3a4bda5344",
+    "engName": "Cat & Sofa",
+    "vnName": "Cat & Sofa",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "1f8cc775-d876-4551-a4d6-10f048bc419a",
+    "engName": "Casmara",
+    "vnName": "Casmara",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "61d037d0-31ea-435d-b641-f0bd53763192",
+    "engName": "Casio",
+    "vnName": "Casio",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "930d8ca4-c335-4ed3-abab-e34ac81e48dd",
+    "engName": "Cartier",
+    "vnName": "Cartier",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "cacd9e3e-0a68-4fb2-b1a5-58bc5576b250",
+    "engName": "Carrera Jeans",
+    "vnName": "Carrera Jeans",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "08b0bc1d-9520-4fb9-be67-9fba5a42fff5",
+    "engName": "Carrera",
+    "vnName": "Carrera",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "9fe90daf-5fc2-4794-a3a5-e927375b8cc6",
+    "engName": "Carolina Herrera",
+    "vnName": "Carolina Herrera",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "046c057c-ec4a-45ec-b477-efc484da4c9d",
+    "engName": "Carner Barcelona",
+    "vnName": "Carner Barcelona",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "525dd647-aa54-427d-98f7-c1aaf8734dd0",
+    "engName": "Carl F. Bucherer",
+    "vnName": "Carl F. Bucherer",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "de98e2b7-5c61-49d1-921e-adad8b1cefc1",
+    "engName": "Canova",
+    "vnName": "Canova",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "211a8249-d1e3-4de7-b458-478f9740d68e",
+    "engName": "Calvin Klein",
+    "vnName": "Calvin Klein",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "cdf07cd6-1cd4-4ed9-9c40-d8bc7f0cb7b8",
+    "engName": "Callaway",
+    "vnName": "Callaway",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "cb76bf00-b1a5-41cb-8172-c41db138c222",
+    "engName": "Cacharel",
+    "vnName": "Cacharel",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "25ff315e-28af-4973-a261-99cf7ab42d3c",
+    "engName": "Dyson",
+    "vnName": "Dyson",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "560c1086-187c-43c9-b2da-97d72d5c6a52",
+    "engName": "Dunlop",
+    "vnName": "Dunlop",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "a9bebb96-7d85-4d5b-9d39-dc2674cf390f",
+    "engName": "Dunhill",
+    "vnName": "Dunhill",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "286b9156-9b24-402c-8ec3-36983a278009",
+    "engName": "Dufa",
+    "vnName": "Dufa",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "ae01d746-9794-4f6c-9cfe-fde187c8fbe0",
+    "engName": "Ducray",
+    "vnName": "Ducray",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "2b885acf-b573-4790-a55c-d93e8390c64e",
+    "engName": "Duca Di Morrone",
+    "vnName": "Duca Di Morrone",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "baa8f838-13ce-42d9-8d80-ece864011020",
+    "engName": "DSquared2",
+    "vnName": "DSquared2",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "16a6a19f-35bc-4e34-a72b-23a36c8760d9",
+    "engName": "Drunk Elephant",
+    "vnName": "Drunk Elephant",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "59f3d9d9-649b-4f9d-8b32-af6b2938c0d2",
+    "engName": "Dries Van Noten",
+    "vnName": "Dries Van Noten",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "601b60ab-9be7-4073-bc44-f20d07ae25c2",
+    "engName": "Drew House",
+    "vnName": "Drew House",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "11f6404b-b006-4f4f-8a52-f256e63fcda3",
+    "engName": "Dr.Jart+",
+    "vnName": "Dr.Jart+",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "59c4f6af-27ad-483b-8c85-76157d273dc9",
+    "engName": "Dr.Ci:Labo",
+    "vnName": "Dr.Ci:Labo",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "3bcdac33-9fcd-4c94-b3eb-5fc06b3651d1",
+    "engName": "Dr.Arrivo",
+    "vnName": "Dr.Arrivo",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "21586806-d584-4c47-a2e3-bcb2d0012d72",
+    "engName": "Dr. Vranjes Firenze",
+    "vnName": "Dr. Vranjes Firenze",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "85296d54-e1e8-4415-82a5-b6ada4feb13a",
+    "engName": "Dr. Barbara Sturm",
+    "vnName": "Dr. Barbara Sturm",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "eba4ff0b-f010-4fd3-8347-d5278b294b9c",
+    "engName": "Dr Glatt",
+    "vnName": "Dr Glatt",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "6d69af7e-6a78-47f7-84c0-1caf6b266a50",
+    "engName": "Dr Dennis Gross",
+    "vnName": "Dr Dennis Gross",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "1ce6454b-bd52-4b15-9289-ead074c3e629",
+    "engName": "Dope",
+    "vnName": "Dope",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "e2de4e3b-ac93-487b-957a-75fc367fcecc",
+    "engName": "Dooney & Bourke",
+    "vnName": "Dooney & Bourke",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "01e120c7-3ba3-4d4a-a7b4-45ef99034dae",
+    "engName": "Domba",
+    "vnName": "Domba",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "ad59f879-7231-41ea-bff2-6fe0541d4c1c",
+    "engName": "Dolce & Gabbana",
+    "vnName": "Dolce & Gabbana",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "87966f47-81d2-4fcb-a967-25587b1c9be4",
+    "engName": "Dodo Sugar",
+    "vnName": "Dodo Sugar",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "25b748d7-090d-4b99-9c1e-4839afd9dc96",
+    "engName": "Dockers",
+    "vnName": "Dockers",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "1e8165dc-7ea0-44e9-8152-b0cf76b46607",
+    "engName": "DMK",
+    "vnName": "DMK",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "eec57271-dc47-435a-8e32-2ae6630f19c4",
+    "engName": "DKNY",
+    "vnName": "DKNY",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "4cebb8ed-f4ae-43a7-b32c-f3687ececbc6",
+    "engName": "Dita",
+    "vnName": "Dita",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "2da89416-2bf8-4ccd-a56f-8675f47b22ab",
+    "engName": "Direnzo",
+    "vnName": "Direnzo",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "de1b5a27-c653-4678-bf70-3357652d19f9",
+    "engName": "Diptyque",
+    "vnName": "Diptyque",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "b9f0da6f-ea2b-4401-9f16-62082653dd88",
+    "engName": "Dior",
+    "vnName": "Dior",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "9490ec22-3526-4193-aacb-3a2b34d404bd",
+    "engName": "Diesel",
+    "vnName": "Diesel",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "05e2e8d7-0a8f-48fd-a0ba-ca08b6e8c119",
+    "engName": "Diego Dalla Palma",
+    "vnName": "Diego Dalla Palma",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "5b088270-b289-4aba-9d1e-f88ee7fbab58",
+    "engName": "Dickies",
+    "vnName": "Dickies",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "6f8b724b-8643-400b-a1b2-b719baf86937",
+    "engName": "Devialet",
+    "vnName": "Devialet",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "a2849ffb-97ae-4cf1-9557-139133221e99",
+    "engName": "Dermeden",
+    "vnName": "Dermeden",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "18c8d656-3c4c-4d98-8272-5cec184b3bcf",
+    "engName": "Dermaquest",
+    "vnName": "Dermaquest",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "31f860c3-92a5-487e-8b91-9fbcb3f78097",
+    "engName": "Dermalogica",
+    "vnName": "Dermalogica",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "2af32334-b58a-42b5-a80c-346eef6473f0",
+    "engName": "Dermaceutic",
+    "vnName": "Dermaceutic",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "1e4969a5-2704-4b6a-a1c8-fcf2bf54c421",
+    "engName": "Dermaceleb",
+    "vnName": "Dermaceleb",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "d72a279e-c640-4fc6-a854-d835689d6577",
+    "engName": "Delaneau",
+    "vnName": "Delaneau",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "d9120e14-ee67-4af0-acc3-00ac87dd4bf7",
+    "engName": "Decorté",
+    "vnName": "Decorté",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "7bccf8fb-0be1-4d7d-80d0-e322c92f595a",
+    "engName": "Décaar",
+    "vnName": "Décaar",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "105b84ef-f2af-4e3e-8d23-8f0727201dbf",
+    "engName": "DC Shoes",
+    "vnName": "DC Shoes",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "ad076cb2-715f-4446-87f3-33f8addbbc0a",
+    "engName": "DBH",
+    "vnName": "DBH",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "efd644a5-b249-498c-a40f-1c3e9a263870",
+    "engName": "Davidoff",
+    "vnName": "Davidoff",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "6eef99cc-dbec-4618-9a10-419f1217efaa",
+    "engName": "Davena",
+    "vnName": "Davena",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "5fc20e55-3fce-4fdd-b345-2fb9fa7c795e",
+    "engName": "Darphin",
+    "vnName": "Darphin",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "74455a64-a57e-4cb0-bd65-9a4a187578c5",
+    "engName": "Daniel Wellington",
+    "vnName": "Daniel Wellington",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "716d632c-970a-48ec-96bd-8b0b8243d248",
+    "engName": "D'Alba",
+    "vnName": "D'Alba",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "654def28-bc3e-4075-a3af-ed7aed700ac8",
+    "engName": "Exoderm",
+    "vnName": "Exoderm",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "3e668619-a01d-4319-91a1-fb3efa149a12",
+    "engName": "ExoCoBio",
+    "vnName": "ExoCoBio",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "7cd73592-5475-4c20-8096-aae0aaa2dce6",
+    "engName": "Exideal",
+    "vnName": "Exideal",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "f3a22cfc-d921-448e-bbce-60225e432009",
+    "engName": "Ex Nihilo",
+    "vnName": "Ex Nihilo",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "ab6ab828-a491-4048-a583-9046384945a0",
+    "engName": "Evenswiss",
+    "vnName": "Evenswiss",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "97530902-6da9-4466-a820-02f44b9126e4",
+    "engName": "Euphytos",
+    "vnName": "Euphytos",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "dd2436b2-3635-4120-a7cb-b96eae565de0",
+    "engName": "Eucerin",
+    "vnName": "Eucerin",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "f9fd051a-5026-45ec-844c-5ed63a497e5d",
+    "engName": "Etro",
+    "vnName": "Etro",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "745e3c69-3712-4b59-bfaf-6bc792bc35e9",
+    "engName": "Etienne Aigner",
+    "vnName": "Etienne Aigner",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "3162fa6d-976f-47fe-999c-bb9eed12f0d2",
+    "engName": "Etat Libre d'Orange",
+    "vnName": "Etat Libre d'Orange",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "093a4602-e35a-49bc-812e-89abb9164264",
+    "engName": "Estée Lauder",
+    "vnName": "Estée Lauder",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "ecf81945-64dc-4ed0-aafe-750d1425b5be",
+    "engName": "Escentric Molecules",
+    "vnName": "Escentric Molecules",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "e92694b7-8cbe-48f4-8c7d-ab090b069a39",
+    "engName": "Escada",
+    "vnName": "Escada",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "6578a808-5fcb-4c56-94b0-ad89127e87c6",
+    "engName": "Ermenegildo Zegna",
+    "vnName": "Ermenegildo Zegna",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "8d708456-716d-42bf-a885-1c34f753d331",
+    "engName": "Erimota",
+    "vnName": "Erimota",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "6ad7c22c-e5bb-44ba-a891-75d93646a175",
+    "engName": "EPI-RX",
+    "vnName": "EPI-RX",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "5265a8b7-736d-4f84-a096-416887ec2e36",
+    "engName": "Engage Pickleball",
+    "vnName": "Engage Pickleball",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "a4bd70c6-dc4a-41fb-82ef-762132dac55b",
+    "engName": "Endocare",
+    "vnName": "Endocare",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "5ec1c726-a5dd-442a-8a01-55528bedf3e8",
+    "engName": "Emporio Armani",
+    "vnName": "Emporio Armani",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "e936f2c2-89d8-4dd3-8897-dfb86f70ba0c",
+    "engName": "Éminence",
+    "vnName": "Éminence",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "ec194747-f7a1-48cc-9f7f-4a41de68bae4",
+    "engName": "Emile Chouriet",
+    "vnName": "Emile Chouriet",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "c3bd294a-811a-4d05-8e9f-522829e05c5b",
+    "engName": "Elvawell",
+    "vnName": "Elvawell",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "496dfb2b-7408-4748-b84c-98e79758185d",
+    "engName": "EltaMD",
+    "vnName": "EltaMD",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "d4210d50-61cf-4091-bf85-3016eb852893",
+    "engName": "Ellis Brooklyn",
+    "vnName": "Ellis Brooklyn",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "fc8cde3b-00aa-4f48-be22-91d9ef818fc3",
+    "engName": "ELLE",
+    "vnName": "ELLE",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "54b94ca3-3ec9-4c3b-8c10-028374971f7f",
+    "engName": "Elizabeth Taylor",
+    "vnName": "Elizabeth Taylor",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "27c8b853-d48c-4c07-990a-fc97bd942595",
+    "engName": "Elizabeth Arden",
+    "vnName": "Elizabeth Arden",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "316935a2-acce-4249-9d15-f4b40b0e0dbd",
+    "engName": "Elixir",
+    "vnName": "Elixir",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "de4974bb-327e-48db-9a14-90e50498535e",
+    "engName": "Elisabetta Franchi",
+    "vnName": "Elisabetta Franchi",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "8681189b-8332-4464-82b0-c264e0b87134",
+    "engName": "Elie Saab",
+    "vnName": "Elie Saab",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "57859a18-e518-4af1-8a3f-cc5b9c0a8b34",
+    "engName": "Ekseption",
+    "vnName": "Ekseption",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "9725543b-1a74-441d-b0a9-b0c535b1e1d2",
+    "engName": "Edox",
+    "vnName": "Edox",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "6b4ced77-2587-467a-ba02-c2ae66bc21d1",
+    "engName": "Fusion Meso",
+    "vnName": "Fusion Meso",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "0047cd15-f7f9-4fc4-97d9-4bfcfd5529f7",
+    "engName": "Furla",
+    "vnName": "Furla",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "b6e42810-7490-4af7-9c95-af4c1c563c12",
+    "engName": "Frezyderm",
+    "vnName": "Frezyderm",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "fffa3a2c-dd45-4b44-b4e3-9b6ac528c623",
+    "engName": "Fresh",
+    "vnName": "Fresh",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "b3c3bc55-0c6a-40d6-8d9e-32323895d126",
+    "engName": "Frederique Constant",
+    "vnName": "Frederique Constant",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "2856a020-aa5e-4d21-8e80-03af0d9397f2",
+    "engName": "Frederic Malle",
+    "vnName": "Frederic Malle",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "5d78878a-4ad2-47db-98c4-7263866dc0d0",
+    "engName": "Fred Perry",
+    "vnName": "Fred Perry",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "b20406eb-d455-41fd-9695-b3bd26959d16",
+    "engName": "Franklin",
+    "vnName": "Franklin",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "258f5f31-448f-49c3-b9a9-d540a9664fb1",
+    "engName": "Franck Muller",
+    "vnName": "Franck Muller",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "7b0e713f-6312-4c47-9cad-51f27f55e224",
+    "engName": "Franck Boclet",
+    "vnName": "Franck Boclet",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "6b156d3a-472a-43cf-8220-87d5174d78a9",
+    "engName": "Fragrance World",
+    "vnName": "Fragrance World",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "261e24a5-780c-4f63-839e-2acc679ea9ca",
+    "engName": "Fraco",
+    "vnName": "Fraco",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "fcf30465-ea8d-4a18-b860-64be77aec468",
+    "engName": "Fossil",
+    "vnName": "Fossil",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "e63ac82f-dbc4-461a-b5d3-c53d33f50c0a",
+    "engName": "Fort & Manlé",
+    "vnName": "Fort & Manlé",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "f7b5feeb-dc08-4fb3-855c-6fc72e42f355",
+    "engName": "Foreo",
+    "vnName": "Foreo",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "c3e3a4b9-3ebc-44c0-9f9e-1ff6f4661894",
+    "engName": "Floslek",
+    "vnName": "Floslek",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "1812c14a-d4f2-4889-ae5d-b6bbaf79a1ce",
+    "engName": "Finding Unicorn",
+    "vnName": "Finding Unicorn",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "cb77fb3c-be73-4ca5-914e-0d6b4c7216a1",
+    "engName": "Find Kapoor",
+    "vnName": "Find Kapoor",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "e0720a0e-df55-4ea4-bdea-7be7dde9f41d",
+    "engName": "Filorga",
+    "vnName": "Filorga",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "3833fa36-73d2-4ebe-9a0d-63317a910a52",
+    "engName": "Fila",
+    "vnName": "Fila",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "0497cd43-0249-4667-a2b0-3a73438f672b",
+    "engName": "Ferre Milano",
+    "vnName": "Ferre Milano",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "575a7804-af09-4704-893d-50f84e55af2b",
+    "engName": "Ferrari",
+    "vnName": "Ferrari",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "b3741af9-4036-435e-b4ee-6454a8ecd3c5",
+    "engName": "Fenty Beauty",
+    "vnName": "Fenty Beauty",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "9f63951d-1995-483f-9932-b570831cf4c4",
+    "engName": "Fendi",
+    "vnName": "Fendi",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "b4aa1383-039c-495a-bd37-0586d119e9c5",
+    "engName": "Feeling Of Yui",
+    "vnName": "Feeling Of Yui",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "ec363b48-dfb4-46e2-8ba0-97a36726db5b",
+    "engName": "Fear Of God - FOG",
+    "vnName": "Fear Of God - FOG",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "5392d2f2-e3a8-43d8-b0b3-5074acf4db7f",
+    "engName": "Fau",
+    "vnName": "Fau",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "0a0810dd-930e-4442-a192-2e7c5209cb15",
+    "engName": "Fashion Nova",
+    "vnName": "Fashion Nova",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "196520ba-8e5e-4f47-a15d-f165c31ba349",
+    "engName": "Farmona",
+    "vnName": "Farmona",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "d3317410-e360-4964-93a5-6c57bbe803a7",
+    "engName": "Fabergé",
+    "vnName": "Fabergé",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "f15c5314-1f15-47d2-a19d-7a30e6a75937",
+    "engName": "Guy Laroche",
+    "vnName": "Guy Laroche",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "808b416f-a71d-47ac-87d0-2024a741309d",
+    "engName": "Guess",
+    "vnName": "Guess",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "f09528cb-9973-4bab-88be-08d9f2dec2cf",
+    "engName": "Guerlain",
+    "vnName": "Guerlain",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "432b1b29-6901-4856-9bf8-4ac15a1b4a05",
+    "engName": "Gucci",
+    "vnName": "Gucci",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "541d1f8e-c0d5-4d56-baaf-c9e9e5ef73d4",
+    "engName": "Gruppo Gamma",
+    "vnName": "Gruppo Gamma",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "d7b72adf-5bc9-45bc-84c3-80b97611d4f7",
+    "engName": "Grooverhyme",
+    "vnName": "Grooverhyme",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "c79df525-eb30-48a4-a0a4-1d6553b788be",
+    "engName": "Grès",
+    "vnName": "Grès",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "947af446-9cb3-4cf9-8014-e493a6577cae",
+    "engName": "Grande Cosmetics",
+    "vnName": "Grande Cosmetics",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "b4982112-5886-405a-8d9c-83479a2240c8",
+    "engName": "Goyard",
+    "vnName": "Goyard",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "e8d2e66f-9d31-4f16-ac2d-39dab04160ef",
+    "engName": "Goongbe",
+    "vnName": "Goongbe",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "9614b8a3-9c4b-46ba-99e5-3c20a84d33c9",
+    "engName": "GoodnDoc",
+    "vnName": "GoodnDoc",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "51d78f5b-0bdb-4461-9dd0-015473293e5a",
+    "engName": "Glycine",
+    "vnName": "Glycine",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "22b9a4ca-c2a3-40ab-9868-fe2607d13346",
+    "engName": "Glowbiotics",
+    "vnName": "Glowbiotics",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "e2f08223-c393-4a1d-a43e-182ba3b53fa6",
+    "engName": "GLO Science",
+    "vnName": "GLO Science",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "da57c570-fda3-4a6b-a6fc-4747244b7d06",
+    "engName": "GlamGlow",
+    "vnName": "GlamGlow",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "29e500fa-8514-4cad-8887-681662c85830",
+    "engName": "Givenchy",
+    "vnName": "Givenchy",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "ac8b16a3-e1c1-44b1-8976-ea93f1f3db6f",
+    "engName": "Giuseppe Zanotti",
+    "vnName": "Giuseppe Zanotti",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "bd578f26-191c-4fe9-9262-3515c9476aa4",
+    "engName": "Girard Perregaux",
+    "vnName": "Girard Perregaux",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "2ffff3f7-c6e6-49b0-9442-573fd05aa7d8",
+    "engName": "Giovanni",
+    "vnName": "Giovanni",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "6d2a86de-28a6-4cfd-b027-f77c6d3baa85",
+    "engName": "Giorgio Ferri",
+    "vnName": "Giorgio Ferri",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "c3ade954-4c71-4ca5-b717-8c538d78a052",
+    "engName": "Giorgio Armani",
+    "vnName": "Giorgio Armani",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "2a0403e2-58c9-4626-ac81-b5081cbccaa2",
+    "engName": "Gigi Laboratories",
+    "vnName": "Gigi Laboratories",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "55828ba4-4f2b-42db-93fb-a99b729eec86",
+    "engName": "Giarité",
+    "vnName": "Giarité",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "d3338860-5198-416d-b4a8-cdaa6f7bbf52",
+    "engName": "Gianni Conti",
+    "vnName": "Gianni Conti",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "96ac7c11-a466-44b8-b382-9dd38d2148ff",
+    "engName": "Gian Marco Venturi",
+    "vnName": "Gian Marco Venturi",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "6835ca8a-2ab0-443f-a1e4-ac75200d94c2",
+    "engName": "Ghala Zayed",
+    "vnName": "Ghala Zayed",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "699b561f-5c47-49f3-97f4-bca2f6ddc77b",
+    "engName": "Gevril",
+    "vnName": "Gevril",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "bf484c8d-6c57-4113-aa29-e80b458cf86d",
+    "engName": "Germano Bellesi",
+    "vnName": "Germano Bellesi",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "61eb1f7b-cd34-4130-8bfb-0f16339c741a",
+    "engName": "Gentle Monster",
+    "vnName": "Gentle Monster",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "8b9668d1-a2a5-4f39-b13a-ad575f11116a",
+    "engName": "Gemax",
+    "vnName": "Gemax",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "09d6fc77-4e26-485d-aa63-dfe4798091e8",
+    "engName": "Gearbox",
+    "vnName": "Gearbox",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "8bc524f3-a842-4605-8459-e05d55ff20ff",
+    "engName": "Garmin",
+    "vnName": "Garmin",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "59fc2359-6042-482d-a69f-4537537fd33d",
+    "engName": "Gant",
+    "vnName": "Gant",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "0188808c-2820-405a-a064-bf5a2ab556f5",
+    "engName": "G-Star Raw",
+    "vnName": "G-Star Raw",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "5c70e588-96b1-45f1-ba10-a34ea8c847cf",
+    "engName": "Hydrogen",
+    "vnName": "Hydrogen",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "dd0fcbdf-3633-4b1e-a72a-6612f67e6231",
+    "engName": "Hydro Tech",
+    "vnName": "Hydro Tech",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "edd22bc1-f1e0-45c8-ba85-caa74e1f96a5",
+    "engName": "Hyaestic",
+    "vnName": "Hyaestic",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "0dd9fe6c-ae80-4d2d-b8b2-29bb6898fbfe",
+    "engName": "Huy Thanh Jewelry",
+    "vnName": "Huy Thanh Jewelry",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "38d54da6-e7e9-4f12-b2c7-a01e248165fc",
+    "engName": "Huxley",
+    "vnName": "Huxley",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "eb51e8e3-3385-43c5-ae52-cf092feab511",
+    "engName": "Hush & Hush",
+    "vnName": "Hush & Hush",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "d47327f1-53fc-45a8-a87b-7ebf96b31ae9",
+    "engName": "Hugo Boss",
+    "vnName": "Hugo Boss",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "db339226-c117-4f26-ab67-0cd3d61859cb",
+    "engName": "Huda Beauty",
+    "vnName": "Huda Beauty",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "3b471fe5-c1e2-418d-b1ba-1148ccde6e78",
+    "engName": "Hublot",
+    "vnName": "Hublot",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "56baba83-1cd4-4f90-bfe3-e24c9d70540b",
+    "engName": "Hourglass",
+    "vnName": "Hourglass",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "f5d06ade-e782-4018-8e58-1b93d30d4cbe",
+    "engName": "HoMedics",
+    "vnName": "HoMedics",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "bdc4dc57-09cc-47ea-8612-6c07861b22cf",
+    "engName": "Hoka One One",
+    "vnName": "Hoka One One",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "f0d4ed54-7bec-4e5f-b941-f95741c56c3a",
+    "engName": "Hitachi",
+    "vnName": "Hitachi",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "fd69d5ff-cf9e-4960-ad74-335f42cb532b",
+    "engName": "Histolab",
+    "vnName": "Histolab",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "868c4faf-df5f-41bb-8afa-edadd94b191b",
+    "engName": "Hermès",
+    "vnName": "Hermès",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "3bcc550a-5876-42a2-89aa-2815d14f1796",
+    "engName": "Heritor",
+    "vnName": "Heritor",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "f0341f6a-37a7-4f03-97cb-6104333b0f2f",
+    "engName": "Herbivore Botanicals",
+    "vnName": "Herbivore Botanicals",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "1984ee81-6e84-42b1-b8e7-e154a06026ee",
+    "engName": "Hera",
+    "vnName": "Hera",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "04724cb3-5227-4fc1-8e95-6352589fbc45",
+    "engName": "Henry London",
+    "vnName": "Henry London",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "97dd2427-7057-4119-aae3-4e66d175cbb5",
+    "engName": "Heliocare",
+    "vnName": "Heliocare",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "d94fd75a-0f0f-4a13-a5c4-5268359a50a5",
+    "engName": "Helena Rubinstein",
+    "vnName": "Helena Rubinstein",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "8adeb4b0-f6ad-4f86-a471-6d9a19b092f9",
+    "engName": "Hamilton",
+    "vnName": "Hamilton",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "e06f4927-fc87-415b-b9dc-7c00e80e77a9",
+    "engName": "Hackett",
+    "vnName": "Hackett",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "405898ec-9a38-4ae0-a6b3-15a54ec6ec5d",
+    "engName": "Issey Miyake",
+    "vnName": "Issey Miyake",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "96d3214c-a69d-448d-9062-1839dbda80d0",
+    "engName": "iS Clinical",
+    "vnName": "iS Clinical",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "45e3a589-104a-4c5b-9417-50916427e2d9",
+    "engName": "Invicta",
+    "vnName": "Invicta",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "c8c481c7-5f47-487d-ab75-8898917c103d",
+    "engName": "IntelDerm",
+    "vnName": "IntelDerm",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "b3e3e38b-1c2b-440b-9e1c-bf597a00c26f",
+    "engName": "Innoaesthetics",
+    "vnName": "Innoaesthetics",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "abfe38e5-e47e-4920-b5cc-c5398e1d0017",
+    "engName": "Initio Parfums Prives",
+    "vnName": "Initio Parfums Prives",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "5b864902-4866-43d9-a3a7-5d1b4574a7dc",
+    "engName": "Inglot",
+    "vnName": "Inglot",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "8200d91f-5467-454a-8de1-46d2a8586ca2",
+    "engName": "Ingersoll",
+    "vnName": "Ingersoll",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "7b402980-25d2-4c6d-b6cd-19bb3ef461d1",
+    "engName": "Image",
+    "vnName": "Image",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "31bdeba5-44c0-4186-b2b9-d2a66d509d33",
+    "engName": "Ih Nom Uh Nit",
+    "vnName": "Ih Nom Uh Nit",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "00333672-d414-4678-b1de-e2b61231bd04",
+    "engName": "Ice Watch",
+    "vnName": "Ice Watch",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "ef88f887-eb94-40c6-b256-517b9a4958da",
+    "engName": "I&W Carnival",
+    "vnName": "I&W Carnival",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "3cd577fa-ee8d-4d4a-b9b1-cee3eab69446",
+    "engName": "Jw Pei",
+    "vnName": "Jw Pei",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "beb58979-292a-47c1-9ea1-6654fa311067",
+    "engName": "Juvera Cosmetic",
+    "vnName": "Juvera Cosmetic",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "5608f45c-0a96-419d-84e4-1c40585a4d8b",
+    "engName": "Just Cavalli",
+    "vnName": "Just Cavalli",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "cc074cd7-e590-4cdc-9768-be7eb0dc515f",
+    "engName": "Jung Saem Mool",
+    "vnName": "Jung Saem Mool",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "db279854-9238-4963-9291-8ee708d172c5",
+    "engName": "Julius",
+    "vnName": "Julius",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "cc87f3dc-082f-4344-8fc4-94321fc5600d",
+    "engName": "Juliette Has A Gun",
+    "vnName": "Juliette Has A Gun",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "00edb5de-6814-42f8-8362-596f5f94244e",
+    "engName": "Juliette Armand",
+    "vnName": "Juliette Armand",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "2a814a35-8069-49fa-a0c7-3ef389ba582c",
+    "engName": "Juicy Couture",
+    "vnName": "Juicy Couture",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "4c3912da-fcff-4a1d-a9dc-7cbab87e533e",
+    "engName": "Joop",
+    "vnName": "Joop",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "05a5408e-75dc-434c-ad96-7e7b636f1837",
+    "engName": "Joola",
+    "vnName": "Joola",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "64c0d7bf-e2e0-459f-9b68-aa7100363c85",
+    "engName": "John Varvatos",
+    "vnName": "John Varvatos",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "a2c00ea1-60a9-44a3-985a-ab21ca561387",
+    "engName": "John Richmond",
+    "vnName": "John Richmond",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "abc6768e-12ec-487e-b877-aa9cb6d869f0",
+    "engName": "Jo Malone",
+    "vnName": "Jo Malone",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "e52a1de4-9c90-4e50-bd50-33a13add765b",
+    "engName": "Jimmy Choo",
+    "vnName": "Jimmy Choo",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "21c60516-d08e-4495-95dc-66901226f289",
+    "engName": "Jill Stuart",
+    "vnName": "Jill Stuart",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "782953fd-b3eb-42fc-84fd-d551df1a234d",
+    "engName": "Jil Sander",
+    "vnName": "Jil Sander",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "516158c7-28a2-4e9e-b988-edfa3ce72a35",
+    "engName": "Jesus Del Pozo",
+    "vnName": "Jesus Del Pozo",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "7ece1e29-599e-4160-a315-0fff4c86a7c6",
+    "engName": "Jemmia Diamond",
+    "vnName": "Jemmia Diamond",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "bf2c120f-066c-46fe-b809-ba2cf5dfdc3b",
+    "engName": "Jean Paul Gaultier",
+    "vnName": "Jean Paul Gaultier",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "7208e6ee-e81f-4b87-a987-3c29219a1bba",
+    "engName": "Jean D'Arcel",
+    "vnName": "Jean D'Arcel",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "f0017520-0f69-4d9e-9826-76df4026b7fa",
+    "engName": "JBW",
+    "vnName": "JBW",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "e5469f61-37ea-4eaa-b960-fafbcca01d0e",
+    "engName": "Jaquet Droz",
+    "vnName": "Jaquet Droz",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "08dd8d36-fcaa-4e37-b17b-be19d3bc6af0",
+    "engName": "Jan Marini Skin Research",
+    "vnName": "Jan Marini Skin Research",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "7ad32283-90a9-4247-ada6-c546569f91b3",
+    "engName": "Jaguar",
+    "vnName": "Jaguar",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "67c80dd3-5ace-4ffe-8142-5d9144fd08a5",
+    "engName": "Jaeger-LeCoultre",
+    "vnName": "Jaeger-LeCoultre",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "a928f20b-9a51-438f-bf65-d8382031357d",
+    "engName": "Jaded London",
+    "vnName": "Jaded London",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "63556e77-da11-44ce-959a-4ce1fd33fcf0",
+    "engName": "Jacquemus",
+    "vnName": "Jacquemus",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "13c4e7ab-46f6-4696-ac66-b7eb59571379",
+    "engName": "Jack Black",
+    "vnName": "Jack Black",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "668c0991-9e56-4e59-b199-f7f23ab7e058",
+    "engName": "Jack & Jones",
+    "vnName": "Jack & Jones",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "69c34e7f-1354-45b2-8ff6-b81ba39da2c5",
+    "engName": "J.Lindeberg",
+    "vnName": "J.Lindeberg",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "764c0d2d-9afa-49f2-977a-a966cb938901",
+    "engName": "Kyung lab",
+    "vnName": "Kyung lab",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "3c877090-29c1-41e5-8dc1-6e01d25b60a1",
+    "engName": "Kya Jewel",
+    "vnName": "Kya Jewel",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "1e847bff-e5ed-4fb9-9c64-fa6807da51b0",
+    "engName": "Kuboraum",
+    "vnName": "Kuboraum",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "8f5d1e63-ff3b-4a07-b368-4826eb99e684",
+    "engName": "Kosé",
+    "vnName": "Kosé",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "7399bc5f-9bbe-4c91-9068-1e52be38b3dc",
+    "engName": "Korloff",
+    "vnName": "Korloff",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "9d3b8a80-42a4-4f04-9f5e-9093702ad423",
+    "engName": "Knot",
+    "vnName": "Knot",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "74f22f0c-66d8-41fa-94ed-217e85115cbb",
+    "engName": "Kilian",
+    "vnName": "Kilian",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "7a337ad9-da0a-4bcb-89d2-c1d4b2abe391",
+    "engName": "Kiehl's",
+    "vnName": "Kiehl's",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "ab6bf3a3-c39d-4d77-ac69-5d5a7716b4dd",
+    "engName": "Kérastase",
+    "vnName": "Kérastase",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "c9bc42e7-eb37-4166-968b-03171f8ddba0",
+    "engName": "Kenzo",
+    "vnName": "Kenzo",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "cf9d180c-6069-4b88-8838-fe1a9515b4c9",
+    "engName": "Kenneth Cole",
+    "vnName": "Kenneth Cole",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "082884e2-eff8-4e2c-a02e-18a2be2323bd",
+    "engName": "Kemil",
+    "vnName": "Kemil",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "33af884d-6368-4576-8475-b211860f9579",
+    "engName": "KB Pure",
+    "vnName": "KB Pure",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "4d5c75fc-d556-46c6-ab8d-e82b72f946df",
+    "engName": "Katy Perry",
+    "vnName": "Katy Perry",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "b51afa31-eca5-4b91-8e76-ede104640576",
+    "engName": "Kate Spade",
+    "vnName": "Kate Spade",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "7b33cc17-715f-410b-b391-c25d2ee9bae5",
+    "engName": "Kassaw",
+    "vnName": "Kassaw",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "ac67e33e-c893-4b5f-bbcd-5616890b3d25",
+    "engName": "Karl Lagerfeld",
+    "vnName": "Karl Lagerfeld",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "2a888f35-5c03-462f-b000-634280b34cf3",
+    "engName": "Kanebo",
+    "vnName": "Kanebo",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "c2407c45-bb1c-4190-9786-ae587014724e",
+    "engName": "Kaja",
+    "vnName": "Kaja",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "2adf9812-4e51-44b5-ac70-6955f1eeb2d2",
+    "engName": "K-Swiss Tubes Pharo",
+    "vnName": "K-Swiss Tubes Pharo",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "c42e23f4-f6c9-4a02-a60e-7f592ad17a4b",
+    "engName": "Lyn",
+    "vnName": "Lyn",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "9cf95d41-01fb-4187-979a-a1dfaca00d41",
+    "engName": "Luminox",
+    "vnName": "Luminox",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "5435d169-2248-4471-b34e-95ae31508d2d",
+    "engName": "Lumberjack",
+    "vnName": "Lumberjack",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "22a20f0c-19a3-4f3a-a67f-b0ecde12da70",
+    "engName": "Lucky Brand",
+    "vnName": "Lucky Brand",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "eafd90b9-bd5a-4b79-8344-f41d8bb0475d",
+    "engName": "Louis Vuitton",
+    "vnName": "Louis Vuitton",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "15b06c0a-f4bd-46fa-9ec5-96bc11bbe874",
+    "engName": "Longines",
+    "vnName": "Longines",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "d0bef5fa-3e6c-402a-9b81-caaeeae12d55",
+    "engName": "Longchamp",
+    "vnName": "Longchamp",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "94752397-ef2d-4beb-9cd1-109fd7883013",
+    "engName": "Long4Lashes",
+    "vnName": "Long4Lashes",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "c4fb9dc9-19ba-4c6b-8dc7-5684a1d25d0c",
+    "engName": "Lolita Lempicka",
+    "vnName": "Lolita Lempicka",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "413b0259-8069-40ff-a35e-3faaf2f934be",
+    "engName": "Logically Skin",
+    "vnName": "Logically Skin",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "0c9e35af-b691-4c67-8a04-46a29722065c",
+    "engName": "Loewe",
+    "vnName": "Loewe",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "93ef3c08-fb33-4039-9ca5-ac7404f20009",
+    "engName": "Lộc Phúc Fine Jewelry",
+    "vnName": "Lộc Phúc Fine Jewelry",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "924041da-1482-49cf-a6a5-cc66ba2c408c",
+    "engName": "Liz Claiborne",
+    "vnName": "Liz Claiborne",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "9a2b3488-379c-4ac8-985e-2f13b604edcb",
+    "engName": "Liquides Imaginaires",
+    "vnName": "Liquides Imaginaires",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "ac2141c6-85d5-44ad-b463-34e33c4869e8",
+    "engName": "Lili Jewelry",
+    "vnName": "Lili Jewelry",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "7a0f8193-9c5d-4f46-b981-b3d55ac58b87",
+    "engName": "LifeWork",
+    "vnName": "LifeWork",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "b39dcf5c-918b-42b7-88c3-376383f7be14",
+    "engName": "Life Science Investment (LSI)",
+    "vnName": "Life Science Investment (LSI)",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "dee50c49-f7e5-40d5-b9b6-edbe69718aba",
+    "engName": "Liber Classy",
+    "vnName": "Liber Classy",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "97b04313-5d9e-436c-8cee-ef25f6ce7547",
+    "engName": "Li-Ning",
+    "vnName": "Li-Ning",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "5f1447e1-cd02-4e3b-ac25-acbb74e8d24b",
+    "engName": "Levi's",
+    "vnName": "Levi's",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "fde33642-f63d-444a-a336-c6efb5c1f79e",
+    "engName": "Les Hommes",
+    "vnName": "Les Hommes",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "d1be619c-f85c-4ff4-be02-4fc4954850fd",
+    "engName": "Lee",
+    "vnName": "Lee",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "76eeb07f-dde4-4014-b48d-8a5dc0381cbf",
+    "engName": "Le Labo",
+    "vnName": "Le Labo",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "4b8ec950-39ab-44b2-84eb-916d1eed6bcb",
+    "engName": "Le Dépaysement",
+    "vnName": "Le Dépaysement",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "903e630f-4f4b-425c-a55f-f7534a14821b",
+    "engName": "Le Coq Sportif",
+    "vnName": "Le Coq Sportif",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "21334fa7-555e-4300-be82-4c4ae695fe2f",
+    "engName": "Le Chateau",
+    "vnName": "Le Chateau",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "dccfb52d-f954-4a1e-ae1d-8797b93095e9",
+    "engName": "Laura Mercier",
+    "vnName": "Laura Mercier",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "1c31ad74-e78b-43b9-9d46-152805a30680",
+    "engName": "Laura Biagiotti",
+    "vnName": "Laura Biagiotti",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "344b23e5-199a-4973-b25e-2df9ef970c89",
+    "engName": "Lattafa",
+    "vnName": "Lattafa",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "71cd1065-919f-4a11-9909-c69d0378230d",
+    "engName": "Lanvin",
+    "vnName": "Lanvin",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "591915f7-3fb6-4550-b6b0-1ef000f1f9f6",
+    "engName": "Lancôme",
+    "vnName": "Lancôme",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "9d3acd4e-26d0-406b-a8ca-2365e42ad447",
+    "engName": "Lalique",
+    "vnName": "Lalique",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "7917ab90-cecd-4c47-b03c-9df334bfe974",
+    "engName": "Lacz Denton",
+    "vnName": "Lacz Denton",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "a26866ac-cc21-4100-ba18-7366839400c3",
+    "engName": "Lacoste",
+    "vnName": "Lacoste",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "612c47cf-d887-4c0e-b4dd-3ab247131d83",
+    "engName": "LaCabine",
+    "vnName": "LaCabine",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "c0468aee-43c0-4908-bf1c-f53824b455b8",
+    "engName": "La Roche-Posay",
+    "vnName": "La Roche-Posay",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "a6672dae-f090-492a-84a5-e173b06f82cd",
+    "engName": "La Prairie",
+    "vnName": "La Prairie",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "c58da52d-bd70-4948-b07a-6e6396933520",
+    "engName": "La Mer",
+    "vnName": "La Mer",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "259ca577-787f-4b19-bede-96ed97798b7a",
+    "engName": "La Martina",
+    "vnName": "La Martina",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "d390b5d0-abb8-4fa3-b981-0748ae75a767",
+    "engName": "La Estephe",
+    "vnName": "La Estephe",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "2b202745-3af0-49f2-b38f-edc0906de5bf",
+    "engName": "L'Occitane",
+    "vnName": "L'Occitane",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "504deeee-0a74-4259-ae17-b9bb7585ccb0",
+    "engName": "Muzigae Mansion",
+    "vnName": "Muzigae Mansion",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "c4a4479c-1d4d-4d46-a341-5b9457a563e4",
+    "engName": "Murad",
+    "vnName": "Murad",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "51359d00-4771-4cf2-98e0-ea14bd893036",
+    "engName": "MTG",
+    "vnName": "MTG",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "c80960ef-36ed-44c8-b328-dc406db3f299",
+    "engName": "Mr. Enjoy Da Money (MEDM)",
+    "vnName": "Mr. Enjoy Da Money (MEDM)",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "cd5ad484-5218-4ced-b352-7759a592ef8d",
+    "engName": "Movado",
+    "vnName": "Movado",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "5788cdd9-f350-4b60-b9c8-24f2f706e950",
+    "engName": "Moschino",
+    "vnName": "Moschino",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "2ffd4077-3922-4b25-b7ed-af92726de7ad",
+    "engName": "Moroccanoil",
+    "vnName": "Moroccanoil",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "37bca0e5-6a0c-46b1-bb48-e71eb8654483",
+    "engName": "Morina",
+    "vnName": "Morina",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "44417cce-30f3-453e-aa23-b7f30794c32e",
+    "engName": "Montegrappa",
+    "vnName": "Montegrappa",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "2f5145aa-6dac-4489-beb4-a83596216b74",
+    "engName": "Montblanc",
+    "vnName": "Montblanc",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "99d80595-de5d-4901-a6bc-5c035a0cfaec",
+    "engName": "Montale",
+    "vnName": "Montale",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "2268db06-7cb8-4881-b50f-4efb753af22e",
+    "engName": "Montagut",
+    "vnName": "Montagut",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "6453365f-9c39-4bc7-b289-4b3d1f695ebe",
+    "engName": "Monotheme",
+    "vnName": "Monotheme",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "22840fc0-738e-4cf7-91ce-cf7b069f748c",
+    "engName": "Mondaine",
+    "vnName": "Mondaine",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "786a1b13-9475-4d38-8627-fec21a48998b",
+    "engName": "Mona Frema",
+    "vnName": "Mona Frema",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "549a39a7-0cfe-496b-abb5-32706ccc7d24",
+    "engName": "Molton Brown",
+    "vnName": "Molton Brown",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "a42aa7c4-15da-4496-90b6-f595fe206dce",
+    "engName": "Molsion",
+    "vnName": "Molsion",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "bd3ca044-8745-4793-8981-a128305dcd73",
+    "engName": "MLB Korea",
+    "vnName": "MLB Korea",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "dfefd5d8-211e-4a64-84f0-99dd1d2eab12",
+    "engName": "Mizuno",
+    "vnName": "Mizuno",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "5abff3de-e3d5-4c25-98c5-8cfc3634ca56",
+    "engName": "Mizensir",
+    "vnName": "Mizensir",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "28c963a1-a8a6-4031-822a-0dbd02b7c3c4",
+    "engName": "Miu Miu",
+    "vnName": "Miu Miu",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "0aa95b89-38e9-489a-b9bd-ce9cf669bb11",
+    "engName": "Missoni",
+    "vnName": "Missoni",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "a2575990-21f9-4601-a460-9da211173882",
+    "engName": "Misbhv",
+    "vnName": "Misbhv",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "95b90180-3662-4b93-800f-f574d9b78bb3",
+    "engName": "Misaki Monaco",
+    "vnName": "Misaki Monaco",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "a6268933-1ecc-4919-a07c-63ae169cc925",
+    "engName": "Minh Hà Pearl Jewelry",
+    "vnName": "Minh Hà Pearl Jewelry",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "d613594a-40ae-4f26-ac54-26b4a1967811",
+    "engName": "Mido",
+    "vnName": "Mido",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "b15ed1a4-bd9e-4df4-bac5-cdc3a2dd0244",
+    "engName": "Michael Kors",
+    "vnName": "Michael Kors",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "3b4d7a34-d9e2-42b8-a09d-86fd9b168a6f",
+    "engName": "Methode Physiodermie",
+    "vnName": "Methode Physiodermie",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "f09f019f-5eef-453f-b7b2-e081839e5282",
+    "engName": "Mesoestetic",
+    "vnName": "Mesoestetic",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "a1cf084f-b2ed-49e8-bad7-f7f3790e75ca",
+    "engName": "Meri",
+    "vnName": "Meri",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "8b845d77-c038-44a7-8acb-878d784ff190",
+    "engName": "Mercedes-Benz",
+    "vnName": "Mercedes-Benz",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "56a51081-5c3f-43ba-a607-88337f72ead8",
+    "engName": "Mendittorosa",
+    "vnName": "Mendittorosa",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "27ce235c-6eb1-446d-ac4c-b9497f06c6c7",
+    "engName": "Memo Paris",
+    "vnName": "Memo Paris",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "9c7ae746-02c6-4298-8473-0e9b9073e354",
+    "engName": "Melissa MLS",
+    "vnName": "Melissa MLS",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "4001ef28-8a8f-4e80-a487-62c0cedbd27a",
+    "engName": "Melissa",
+    "vnName": "Melissa",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "abfd80e7-a931-4811-be49-e25e28d05036",
+    "engName": "Meiyiyou",
+    "vnName": "Meiyiyou",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "a42b6142-5d04-471e-9054-9b01ad4c5970",
+    "engName": "Meez",
+    "vnName": "Meez",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "ed1cc2fe-2ed1-4ab7-b056-3c8837f03745",
+    "engName": "Mediphar",
+    "vnName": "Mediphar",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "b0144669-168a-44e8-a5ff-3fc32fc6467a",
+    "engName": "Medik8",
+    "vnName": "Medik8",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "05afa16a-b942-47fc-bba6-41645cc04e8a",
+    "engName": "Medici Of Florence",
+    "vnName": "Medici Of Florence",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "50e98350-30ec-43a7-87fe-e67031d57b32",
+    "engName": "Md:ceuticals",
+    "vnName": "Md:ceuticals",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "1d13ac3a-06bd-4d06-852d-34b0ed05de34",
+    "engName": "MD Dermatics",
+    "vnName": "MD Dermatics",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "8b088a55-e271-4111-b3f3-a199cdbcb140",
+    "engName": "MCM",
+    "vnName": "MCM",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "5f823fa2-e14a-4e15-b0b0-4e7be7516ebc",
+    "engName": "Mccosmetics",
+    "vnName": "Mccosmetics",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "84f61e8c-1c4c-4863-9d0c-120bfd0bc6cd",
+    "engName": "MBR",
+    "vnName": "MBR",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "39e20784-d39e-4e56-821b-a01341716c5d",
+    "engName": "MB&F",
+    "vnName": "MB&F",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "7300163b-98c0-4c74-922c-559e003e413e",
+    "engName": "Mazzucato",
+    "vnName": "Mazzucato",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "eee3951d-1c80-41ac-8c54-697d953fe4e0",
+    "engName": "Maurice Lacroix",
+    "vnName": "Maurice Lacroix",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "f009b242-e4c9-499e-8ca2-eefdc3506885",
+    "engName": "Matsuda",
+    "vnName": "Matsuda",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "eb3108b8-9949-4e13-b2d8-764f0ce1048f",
+    "engName": "Mathey-Tissot",
+    "vnName": "Mathey-Tissot",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "fede0390-748f-4d2d-92af-7625e4845791",
+    "engName": "Masque Milano",
+    "vnName": "Masque Milano",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "6a0ad586-0f04-49ca-ae51-a62d5e5986e8",
+    "engName": "Maserati",
+    "vnName": "Maserati",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "79ef2136-19d7-4bba-85d3-8047d6cc1691",
+    "engName": "Martiderm",
+    "vnName": "Martiderm",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "1f412b57-6cb9-49c4-ab95-ee43c09eb940",
+    "engName": "Marshall",
+    "vnName": "Marshall",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "103b2caf-63e5-4ed0-92b9-2811a118f9ae",
+    "engName": "Mario Badescu",
+    "vnName": "Mario Badescu",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "9f2745a5-91df-4972-9b67-8289a485ba30",
+    "engName": "Marine Serre",
+    "vnName": "Marine Serre",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "1999709e-a48b-45c3-b984-12ad90ff010d",
+    "engName": "Mariagedebien",
+    "vnName": "Mariagedebien",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "e6df7830-c2b7-4441-a937-5b135f36f1dc",
+    "engName": "Marhen.J",
+    "vnName": "Marhen.J",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "42d7a2d6-7ea8-40c5-b653-c920c63950a3",
+    "engName": "Margy's Monte Carlo",
+    "vnName": "Margy's Monte Carlo",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "5dbbdc92-649c-4ce2-b3d6-cb6b2dd6cfef",
+    "engName": "Marcelo Burlon",
+    "vnName": "Marcelo Burlon",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "33cf3a28-1185-4e06-bdcb-13269b1cf252",
+    "engName": "Marc Jacobs",
+    "vnName": "Marc Jacobs",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "bb349969-990f-4b5c-adba-d90e82af42fd",
+    "engName": "Map Of The Heart",
+    "vnName": "Map Of The Heart",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "6d495ea2-4ac9-407c-814b-2b60de1df48d",
+    "engName": "Manolo Blahnik",
+    "vnName": "Manolo Blahnik",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "2a7b6fd7-b062-4f5d-bef4-99b86719e14a",
+    "engName": "Mangosteen",
+    "vnName": "Mangosteen",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "2a79c1a2-0a86-45d5-9195-ed6fe73f0822",
+    "engName": "Mancera",
+    "vnName": "Mancera",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "8fa975e5-0ab8-4284-a59b-d3abe4680008",
+    "engName": "Makeup By Mario",
+    "vnName": "Makeup By Mario",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "bcf84796-5e12-4f33-8df8-15699121f2fe",
+    "engName": "Make Up For Ever",
+    "vnName": "Make Up For Ever",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "22948b43-62d1-4393-96fb-8978982d4d0b",
+    "engName": "Maje",
+    "vnName": "Maje",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "578be815-54a2-4194-b12b-920c5d096524",
+    "engName": "Maison Michel",
+    "vnName": "Maison Michel",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "cbe1a50e-75bd-4bb5-b80a-b3de86daae3e",
+    "engName": "Maison Matine",
+    "vnName": "Maison Matine",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "01b7738d-d839-42c4-82a1-6e5c36589bd2",
+    "engName": "Maison Martin Margiela",
+    "vnName": "Maison Martin Margiela",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "604b46aa-4c9b-45d3-af2b-221640097d20",
+    "engName": "Maison Louis Marie",
+    "vnName": "Maison Louis Marie",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "f782968b-0b0b-41a6-9831-d005bb4fc0e5",
+    "engName": "Maison Kitsuné",
+    "vnName": "Maison Kitsuné",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "ad75bd5e-f23e-4184-a528-bec7f84d802b",
+    "engName": "Maison Francis Kurkdjian",
+    "vnName": "Maison Francis Kurkdjian",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "142574e4-7468-44e6-94a8-c8bd4823343c",
+    "engName": "Mahrcato",
+    "vnName": "Mahrcato",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "2cb808e4-a1b0-4681-8557-5eb89ec4a299",
+    "engName": "Mahagrid",
+    "vnName": "Mahagrid",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "1793dfb8-35db-4fba-b9a1-528dd796a518",
+    "engName": "Madras Modello",
+    "vnName": "Madras Modello",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "39e156c2-49a1-49b6-bd48-86ba7ee7cf9a",
+    "engName": "Madocy By Christian",
+    "vnName": "Madocy By Christian",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "5427872e-b81d-4bfb-b70d-c46dbe167cf3",
+    "engName": "Made In Italy",
+    "vnName": "Made In Italy",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "f998317e-6282-44ff-a48d-6a63b5dce597",
+    "engName": "Mad Et Len",
+    "vnName": "Mad Et Len",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "00c142db-edf1-46cb-a8a0-ce090446373e",
+    "engName": "Mach & Mach",
+    "vnName": "Mach & Mach",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "ac65a5f4-2d0e-4de9-b591-eaebfc51fe96",
+    "engName": "M2 Beauté",
+    "vnName": "M2 Beauté",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "1fd72168-0919-4bcb-ba1b-c241714121f0",
+    "engName": "M-A-C",
+    "vnName": "M-A-C",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "9d838d59-ead3-41c6-9901-4ea71696aec3",
+    "engName": "NuFace",
+    "vnName": "NuFace",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "8af4b332-3cd5-412e-b550-05f18e9acce3",
+    "engName": "Nudestix",
+    "vnName": "Nudestix",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "7eddb151-c464-4895-b723-7812302f8cac",
+    "engName": "Norway 1963",
+    "vnName": "Norway 1963",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "b3ddb2ef-263e-4471-ae53-aaf71221031a",
+    "engName": "Noreva",
+    "vnName": "Noreva",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "ee7bc3ed-d535-4a6d-b692-81dddcc350f2",
+    "engName": "Nishane",
+    "vnName": "Nishane",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "5f8a9cb3-bccc-4fcc-b24c-fb5c5397645e",
+    "engName": "Nina Ricci",
+    "vnName": "Nina Ricci",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "111b004d-74b1-453c-9f2a-31aecf252cc4",
+    "engName": "Nike",
+    "vnName": "Nike",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "d05f5943-bf5b-4f6a-beed-065bb1265907",
+    "engName": "Newchic",
+    "vnName": "Newchic",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "d656e5e7-2427-43db-8f91-2f49cca13f94",
+    "engName": "New Era",
+    "vnName": "New Era",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "214feeb1-58a1-40cb-8b85-06017e294c69",
+    "engName": "New Balance",
+    "vnName": "New Balance",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "439af07e-29e9-46d7-85f3-1e61dac52816",
+    "engName": "Nest New York",
+    "vnName": "Nest New York",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "a08f7645-f407-453b-b26e-b47628699980",
+    "engName": "Nescens",
+    "vnName": "Nescens",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "3f6f2f4a-f9f9-42e6-8f6a-d04553a7dc71",
+    "engName": "Nerdy",
+    "vnName": "Nerdy",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "982df3c6-a2be-461a-8bbb-85754d3a0d85",
+    "engName": "Neova",
+    "vnName": "Neova",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "07bd6abf-8b5e-4402-9012-645cf3974edb",
+    "engName": "Neostrata",
+    "vnName": "Neostrata",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "49c1034e-57b1-4e3d-b1cc-f7a358c13932",
+    "engName": "Neoretin",
+    "vnName": "Neoretin",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "12290c95-3979-4158-9332-f5d16827400c",
+    "engName": "Neil Barrett",
+    "vnName": "Neil Barrett",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "ccef86bd-d175-43d1-a3ff-0a4ab69dd3dc",
+    "engName": "NBS",
+    "vnName": "NBS",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "b35ce960-7191-42db-9e6a-700c9406a18a",
+    "engName": "Nautica",
+    "vnName": "Nautica",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "16b438b6-99d5-4167-a674-544fe3fd051d",
+    "engName": "Natasha Denona",
+    "vnName": "Natasha Denona",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "64daa316-4c9b-4742-9fce-f8257f54956f",
+    "engName": "Nasomatto",
+    "vnName": "Nasomatto",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "01485e61-ea47-4040-8db4-ac055868f038",
+    "engName": "Nars",
+    "vnName": "Nars",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "5a77f514-2cfa-4051-98b1-5247b6d7fc3f",
+    "engName": "Narciso",
+    "vnName": "Narciso",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "fd72f18d-05af-4298-9493-787308db1701",
+    "engName": "NanoTime Beauty",
+    "vnName": "NanoTime Beauty",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "a6443327-0759-4d16-af24-26ba3aa4e85c",
+    "engName": "NanoMD",
+    "vnName": "NanoMD",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "e351d4a0-27b4-49af-bd1a-d6cd94bff936",
+    "engName": "Oxford University",
+    "vnName": "Oxford University",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "fdc5c019-132a-427c-b022-8d7d2dd5661d",
+    "engName": "Orto Parisi",
+    "vnName": "Orto Parisi",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "a3618061-46a4-419b-a07e-b7f5767e6a2c",
+    "engName": "Ormonde Jayne",
+    "vnName": "Ormonde Jayne",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "3f068dc7-fc38-4fe3-940f-d311e6bf7af0",
+    "engName": "Oriza L. Legrand",
+    "vnName": "Oriza L. Legrand",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "f6429b29-95cb-4f17-bbe1-6b39d0f244d1",
+    "engName": "Origins",
+    "vnName": "Origins",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "2855a98a-2d5f-4a6f-bc55-eaaa04a1d3e2",
+    "engName": "Orient",
+    "vnName": "Orient",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "a990e394-35cd-47a5-9f5e-55463c78a132",
+    "engName": "Oribe",
+    "vnName": "Oribe",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "1e3458c8-cd28-4271-86cf-151910d60935",
+    "engName": "Onitsuka Tiger",
+    "vnName": "Onitsuka Tiger",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "4360d459-f848-43f6-8b83-9f95b1b609b6",
+    "engName": "Once Perfume",
+    "vnName": "Once Perfume",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "8a2a9dc8-dafe-45ba-a788-5be891c2d25a",
+    "engName": "On & Off",
+    "vnName": "On & Off",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "8661e5e7-75ba-41bb-ba1b-db94112021b0",
+    "engName": "Omega",
+    "vnName": "Omega",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "24d2d3c4-bff2-47a9-9c5d-2cd9ebbf4a58",
+    "engName": "Olympia Star",
+    "vnName": "Olympia Star",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "0c9ad509-6735-47f7-9fe6-3dc415262c8a",
+    "engName": "Olym Pianus",
+    "vnName": "Olym Pianus",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "b719ea36-2686-4026-90fb-97c73123a884",
+    "engName": "Oliver Peoples",
+    "vnName": "Oliver Peoples",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "6107bf70-61c2-4beb-8266-828ed2ddc6ca",
+    "engName": "OleHenriksen",
+    "vnName": "OleHenriksen",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "9246c736-a818-4caa-aa95-8615cf2aabae",
+    "engName": "Old Angler",
+    "vnName": "Old Angler",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "b44d1a8e-e7d4-48f1-a512-a2f94fd43273",
+    "engName": "Ohui",
+    "vnName": "Ohui",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "15955737-dfd2-4945-84a9-38d2e9c82502",
+    "engName": "Oh! Oh!",
+    "vnName": "Oh! Oh!",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "5c9d0264-b05c-4e79-8f4e-18b4a9e0802f",
+    "engName": "Ogival",
+    "vnName": "Ogival",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "171c39ba-d5fe-4970-92d3-11e17100d5dd",
+    "engName": "Off-White",
+    "vnName": "Off-White",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "16772451-2d96-4934-8ba4-892fca9e035f",
+    "engName": "Obagi Medical",
+    "vnName": "Obagi Medical",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "1a5e77cd-9062-41ae-942f-751b694353cc",
+    "engName": "Oakley",
+    "vnName": "Oakley",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "7df2b991-8bb7-442d-a3e6-68ec44031286",
+    "engName": "Pureology",
+    "vnName": "Pureology",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "e7465fc8-4ea8-4c7a-85a0-55f372268f10",
+    "engName": "Puma",
+    "vnName": "Puma",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "ecbd8989-6b17-46bb-beb3-6b83ced3119b",
+    "engName": "PSA",
+    "vnName": "PSA",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "dbf4f31b-9de4-41e8-9dad-d611e2e2603f",
+    "engName": "ProfiDerm Professional",
+    "vnName": "ProfiDerm Professional",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "4356ae12-1750-4524-91de-a9c0e4544943",
+    "engName": "Prissana",
+    "vnName": "Prissana",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "ee1fe0a5-aae3-4c9c-95dc-3c9b91e6b205",
+    "engName": "Priori",
+    "vnName": "Priori",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "f2d6815d-4cf8-4a09-b4d5-bc6083ef6d80",
+    "engName": "Prin",
+    "vnName": "Prin",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "c7af51c8-f207-42fa-9252-1df0691ccfb3",
+    "engName": "Prada",
+    "vnName": "Prada",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "a1ba209e-0e87-48ad-9f10-127cb7dda9e0",
+    "engName": "Porsche Design",
+    "vnName": "Porsche Design",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "cb49cab4-6c30-43f9-813c-ce9a16f81915",
+    "engName": "Pop Mart",
+    "vnName": "Pop Mart",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "67147eb8-594a-4c47-a568-c34cad23e0c5",
+    "engName": "Ponagar",
+    "vnName": "Ponagar",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "c13e74fa-aa1d-4dd1-8b48-d01865291695",
+    "engName": "Polène",
+    "vnName": "Polène",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "c68f20aa-6bdc-47b1-afc8-0a554356097d",
+    "engName": "Polaroid Core",
+    "vnName": "Polaroid Core",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "f34c60ff-b546-4d0e-a763-137594201a94",
+    "engName": "Polaroid",
+    "vnName": "Polaroid",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "8e55fb3d-13cd-488a-b586-3ebb27bffbcc",
+    "engName": "Pola",
+    "vnName": "Pola",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "f9943e64-0b32-4201-83df-79848c882bfd",
+    "engName": "Plabeau",
+    "vnName": "Plabeau",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "8fe41cf7-e67a-43f4-840b-3d40e3d8622e",
+    "engName": "Pixi",
+    "vnName": "Pixi",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "a2bcb883-3a87-47a6-93d4-e55c554f34a1",
+    "engName": "Pinko",
+    "vnName": "Pinko",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "c32b0f5c-9cc0-4533-bc1a-d518b8f96afc",
+    "engName": "Pimomo",
+    "vnName": "Pimomo",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "9504f15e-f7cd-4159-bb80-d45355378e63",
+    "engName": "Pierre Lannier",
+    "vnName": "Pierre Lannier",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "945c03c5-f8ad-44fc-8a9a-3096ce6e2ad5",
+    "engName": "Pierre Guillaume Paris",
+    "vnName": "Pierre Guillaume Paris",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "9321715d-deaa-4f20-8048-d1fc8457c3b8",
+    "engName": "Piaget",
+    "vnName": "Piaget",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "64e24d72-cf96-471b-af6b-5856bac1f0c3",
+    "engName": "Phú Quý",
+    "vnName": "Phú Quý",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "0b9f45b4-747f-4924-af68-a1b4d2c830f5",
+    "engName": "Philosophy",
+    "vnName": "Philosophy",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "cc31081c-410e-47d8-8941-f5ac567c0745",
+    "engName": "Phillip Lim",
+    "vnName": "Phillip Lim",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "6f7da885-be56-494b-b0fe-5753261ce2f5",
+    "engName": "Philipp Plein",
+    "vnName": "Philipp Plein",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "5c7f7bb4-a1b3-40a4-bcea-5807141abe01",
+    "engName": "Philip B",
+    "vnName": "Philip B",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "d5795491-71fe-4b1d-a99a-021ff00ce132",
+    "engName": "PGM",
+    "vnName": "PGM",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "5fc20065-958d-4a1c-bf95-89e280379319",
+    "engName": "Peter Thomas Roth",
+    "vnName": "Peter Thomas Roth",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "fe8eb36a-57ed-49b5-b173-72fbb1a00ecc",
+    "engName": "Persol",
+    "vnName": "Persol",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "254fb270-9631-41ba-813d-df3f2b5db9f4",
+    "engName": "Perry Ellis",
+    "vnName": "Perry Ellis",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "4889acec-f971-4931-9cbc-45e8ceeaaf34",
+    "engName": "Perris Monte Carlo",
+    "vnName": "Perris Monte Carlo",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "f5e88a96-4ba5-4e91-9621-26e5460d5896",
+    "engName": "Perricone MD",
+    "vnName": "Perricone MD",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "c678d468-4877-449f-804b-7fe59103c8d5",
+    "engName": "Penhaligon's",
+    "vnName": "Penhaligon's",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "e8b95408-65bf-49f7-942f-91890f537709",
+    "engName": "Pedro",
+    "vnName": "Pedro",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "f4ef9e97-60b7-4b2f-8746-bab2830d6cb2",
+    "engName": "PCA Skin",
+    "vnName": "PCA Skin",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "4cc7ccf3-89e3-4a33-9db2-f152f803951f",
+    "engName": "Pazzion",
+    "vnName": "Pazzion",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "f6d6c7d0-cd00-4d3e-8f15-572766202439",
+    "engName": "Paula's Choice",
+    "vnName": "Paula's Choice",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "606f8a18-5e99-4197-b637-0caa62677e3f",
+    "engName": "Paul Design",
+    "vnName": "Paul Design",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "884ffe35-72df-4337-bc1c-aa465a958342",
+    "engName": "Patrick Ta",
+    "vnName": "Patrick Ta",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "742eb5ff-7311-4093-a593-9eb3d1d06675",
+    "engName": "Patek Philippe",
+    "vnName": "Patek Philippe",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "79fbe7c0-c6b0-4bcb-b995-b7210fe82936",
+    "engName": "Pat McGrath Labs",
+    "vnName": "Pat McGrath Labs",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "495775ac-ac4d-4dc4-a1e3-f3853498e83c",
+    "engName": "Parker",
+    "vnName": "Parker",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "ffecc2f8-bbd9-4e1c-b173-9a0000fd35a4",
+    "engName": "Paris Hilton",
+    "vnName": "Paris Hilton",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "69df4e58-5a08-4a68-a189-9c4fbb6752bf",
+    "engName": "Parfums De Marly",
+    "vnName": "Parfums De Marly",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "e148b297-86a4-42fd-8118-71fd702e05df",
+    "engName": "Pandora",
+    "vnName": "Pandora",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "01741593-dfef-4c6b-aef2-05d90f95be38",
+    "engName": "Panasonic",
+    "vnName": "Panasonic",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "f7e9917a-def6-4c13-8283-b3778f173a59",
+    "engName": "Palm Angels",
+    "vnName": "Palm Angels",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "28c1abb0-64ac-41e4-921f-b3bfecc50953",
+    "engName": "Paco Rabanne",
+    "vnName": "Paco Rabanne",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "ffaf5429-c084-47fa-9202-3e11dae1e4d4",
+    "engName": "Q&Q",
+    "vnName": "Q&Q",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "6e124ff2-1b65-4d94-a0bb-ea6339358062",
+    "engName": "Ruslan Baginskiy",
+    "vnName": "Ruslan Baginskiy",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "18f5b395-05a2-4f3f-86d6-d9fb96f2bc03",
+    "engName": "Royal Crown",
+    "vnName": "Royal Crown",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "1270a61d-042a-4d2e-b3f0-24de736760d5",
+    "engName": "Rothco",
+    "vnName": "Rothco",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "a2979dcc-72de-4872-99e8-e63c9080a89d",
+    "engName": "Rosantica",
+    "vnName": "Rosantica",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "d6f49edb-f950-47bc-b4c0-93c2043836b4",
+    "engName": "Romantic Crown",
+    "vnName": "Romantic Crown",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "9591ab66-6012-44a0-8421-5ce91a677278",
+    "engName": "Rolex",
+    "vnName": "Rolex",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "d7415b93-bb77-4f47-b4da-5c6175b44b9e",
+    "engName": "Roja Parfums",
+    "vnName": "Roja Parfums",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "9b028da8-fa32-473a-957c-9b190b3d8aa0",
+    "engName": "Roger Vivier",
+    "vnName": "Roger Vivier",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "1ed802e8-efa9-49a1-98fc-3c8387075947",
+    "engName": "Roger & Gallet",
+    "vnName": "Roger & Gallet",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "35659db5-2eab-47e3-8bb7-50a1c5db1edc",
+    "engName": "Rockport",
+    "vnName": "Rockport",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "91d63b94-c8a0-4fe7-9ce1-49d45c33b461",
+    "engName": "Rochas",
+    "vnName": "Rochas",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "ec552570-0c4e-459c-a415-c918601c93f5",
+    "engName": "Roberto Cavalli",
+    "vnName": "Roberto Cavalli",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "6b756485-96d1-45bf-af94-defdf6d99439",
+    "engName": "Robert Graham",
+    "vnName": "Robert Graham",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "4cd8547d-591d-4905-a18f-4748953c524f",
+    "engName": "Rivero",
+    "vnName": "Rivero",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "bc09d6f8-0add-475a-9795-f54673fea373",
+    "engName": "Rituals",
+    "vnName": "Rituals",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "bc2a56ee-3bf4-4d7a-9d53-59ce4724aa21",
+    "engName": "Rimowa",
+    "vnName": "Rimowa",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "fc2a7fa6-9f3f-4de7-b41a-4d536c0c1f3f",
+    "engName": "Rilastil",
+    "vnName": "Rilastil",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "c9cc334c-aefb-4f9f-aadc-8ec73b584d56",
+    "engName": "Richard Mille",
+    "vnName": "Richard Mille",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "5dd5edf9-7046-4008-ab8a-554159d060ac",
+    "engName": "Ribeskin",
+    "vnName": "Ribeskin",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "bc431fe9-eb2c-42ac-9a56-ae3173fd23ba",
+    "engName": "Rhude",
+    "vnName": "Rhude",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "27e3dc1a-73d8-4211-a8ec-086e8766dea1",
+    "engName": "Revue Thommen",
+    "vnName": "Revue Thommen",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "b4f5e9e6-8c46-41ef-b945-41f7e9fbcfe3",
+    "engName": "Revitalash",
+    "vnName": "Revitalash",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "e9c672ff-fffb-468d-88ad-32b2ec4c8be0",
+    "engName": "Revision Skincare",
+    "vnName": "Revision Skincare",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "d2ddf8f4-2a45-4dce-b2a1-4a1e8cfef7a3",
+    "engName": "Represent",
+    "vnName": "Represent",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "88780a67-47eb-44ec-82a1-2c443e1a2d3a",
+    "engName": "Replay",
+    "vnName": "Replay",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "67a0f748-1b70-40e0-8855-72676e6f00f3",
+    "engName": "Renoderm",
+    "vnName": "Renoderm",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "8e579449-6203-4bd0-9255-0104029a3942",
+    "engName": "Rejuve",
+    "vnName": "Rejuve",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "42d23fde-4c61-4ffa-bb17-c2105263936c",
+    "engName": "Rejuran",
+    "vnName": "Rejuran",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "9019e158-297b-4b86-8584-90d7c8204661",
+    "engName": "Reiser",
+    "vnName": "Reiser",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "754ef2d4-d681-4a8c-9644-2ed6c1edd355",
+    "engName": "Regent Street",
+    "vnName": "Regent Street",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "8af11337-21bd-421d-aa3a-4fbcf3febee9",
+    "engName": "Reebok",
+    "vnName": "Reebok",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "eeb03915-f046-4a91-8f0b-90abaadc68db",
+    "engName": "Redken",
+    "vnName": "Redken",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "23d0f1ee-d8e4-44ba-bc00-2f0e8df32fed",
+    "engName": "Raymond Weil",
+    "vnName": "Raymond Weil",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "99a80332-f35a-4041-882d-157b299dadad",
+    "engName": "Rayban",
+    "vnName": "Rayban",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "0742ff68-4329-4f69-9862-83aed7a0a52b",
+    "engName": "Rasasi",
+    "vnName": "Rasasi",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "89015d2a-c684-4df4-92c2-42d3e25772f0",
+    "engName": "Rare Beauty",
+    "vnName": "Rare Beauty",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "3954e50f-001a-4b9f-860d-ae8cf10956b1",
+    "engName": "Ramon Molvizar",
+    "vnName": "Ramon Molvizar",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "53e32b69-03e5-436d-8dc3-a3499bd60ecb",
+    "engName": "Ralph Lauren",
+    "vnName": "Ralph Lauren",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "b4c63498-78d4-4ff6-8cc2-146baee16d00",
+    "engName": "Rado",
+    "vnName": "Rado",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "0bf261aa-b50c-4774-9d38-c8f0cad5bd18",
+    "engName": "Synergie Skin",
+    "vnName": "Synergie Skin",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "706f71eb-f695-4f7a-9f20-4316fc38763c",
+    "engName": "Swissline",
+    "vnName": "Swissline",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "d0df2773-bff1-4167-b49d-958eecc8774b",
+    "engName": "Swissforce",
+    "vnName": "Swissforce",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "6a280524-cc06-45ed-b3d4-f95b195f3302",
+    "engName": "Swarovski",
+    "vnName": "Swarovski",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "af7b7b76-fc93-4b7b-bc69-9eb2c546c2a9",
+    "engName": "SVR",
+    "vnName": "SVR",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "bfc023af-7e34-44fe-a9fc-5d6f5d752f6d",
+    "engName": "Supreme",
+    "vnName": "Supreme",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "1123459c-4e94-459f-a93c-0414dc671401",
+    "engName": "Supergoop",
+    "vnName": "Supergoop",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "b9dea682-78b2-4d59-b888-e498501607c4",
+    "engName": "Sunlight",
+    "vnName": "Sunlight",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "e6e1423a-5096-4f64-8f08-dc22568dc70f",
+    "engName": "Sunday Riley",
+    "vnName": "Sunday Riley",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "4f67ef37-f902-4bab-a2a8-812fc9752b2f",
+    "engName": "Summer Fridays",
+    "vnName": "Summer Fridays",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "d8512347-b2a9-4a13-9ad7-c19fc31eeadc",
+    "engName": "Sulwhasoo",
+    "vnName": "Sulwhasoo",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "122289d4-35c3-4cf4-bdfd-d0467351942e",
+    "engName": "Su:m37",
+    "vnName": "Su:m37",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "87f4da29-9321-4b6c-98ce-124984d69257",
+    "engName": "Stussy",
+    "vnName": "Stussy",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "3a163adc-590e-4ed6-97fd-afb5d983daf1",
+    "engName": "Stuhrling",
+    "vnName": "Stuhrling",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "749a2275-f9aa-4294-b417-dcd4385287ed",
+    "engName": "Stuart Weitzman",
+    "vnName": "Stuart Weitzman",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "b9ce38ff-1c01-421d-96a9-68765d202e87",
+    "engName": "StretcHeal",
+    "vnName": "StretcHeal",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "2d3c9ce8-be08-4b47-aeaf-0cbdc43d6a36",
+    "engName": "Stretch Angels",
+    "vnName": "Stretch Angels",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "bf1fdda7-1b5b-4341-bc94-ee27e39298c3",
+    "engName": "Strangers Parfumerie",
+    "vnName": "Strangers Parfumerie",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "37c6aa21-73aa-4b41-b1f9-330f45bc6021",
+    "engName": "Stella McCartney",
+    "vnName": "Stella McCartney",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "1d1675a4-f6c6-4dce-84af-be9848ad38cf",
+    "engName": "Starter Black Label",
+    "vnName": "Starter Black Label",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "8faad380-ad15-4652-b75e-de3c4c018111",
+    "engName": "Stand Oil",
+    "vnName": "Stand Oil",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "7cee7d0f-4d0d-4214-ae0b-0427344580a3",
+    "engName": "Stacy Adams",
+    "vnName": "Stacy Adams",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "a07d7390-d3d1-497a-9deb-691de346ea23",
+    "engName": "SRX",
+    "vnName": "SRX",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "818236eb-c880-4cde-8875-ce2887f19feb",
+    "engName": "SRWATCH",
+    "vnName": "SRWATCH",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "587c7383-d157-454d-a0b4-93670729d48d",
+    "engName": "Spinnaker",
+    "vnName": "Spinnaker",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "61ed8081-d037-45f6-a4b4-dbf2ea916c00",
+    "engName": "Speedo",
+    "vnName": "Speedo",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "28378754-6522-4eea-9a96-6fc934229559",
+    "engName": "Sparco",
+    "vnName": "Sparco",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "e760f8fe-a524-4a9e-857d-67bb7d5e50a8",
+    "engName": "Spao",
+    "vnName": "Spao",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "57ada991-3c09-48a7-a9e0-f50ea2065b2f",
+    "engName": "Soskin",
+    "vnName": "Soskin",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "6552feda-d4eb-4529-b81a-20ec4795b4a3",
+    "engName": "Somatoline SkinExpert",
+    "vnName": "Somatoline SkinExpert",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "8de8863c-bb47-4465-b9bf-fb3ce0585214",
+    "engName": "Sol De Janeiro",
+    "vnName": "Sol De Janeiro",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "c225bc41-4652-4163-b934-41ec23c71381",
+    "engName": "Sokolov",
+    "vnName": "Sokolov",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "c6660610-d9d7-47e1-af2e-fa2e868127cd",
+    "engName": "Sodini",
+    "vnName": "Sodini",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "72b29daa-4f5f-45e2-b77f-5aaca65f21a9",
+    "engName": "SmoothSkin",
+    "vnName": "SmoothSkin",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "005b622f-9738-4a43-830c-66663c2ceb86",
+    "engName": "SMFK",
+    "vnName": "SMFK",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "92422fbf-8523-419d-8a88-c5bf03da5385",
+    "engName": "Smashbox",
+    "vnName": "Smashbox",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "4f05c235-9e2a-4ffc-9169-e2e39c5e0ed1",
+    "engName": "SMAS",
+    "vnName": "SMAS",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "7be7398b-ea8f-4aa7-bf31-82ea377016e2",
+    "engName": "Slip",
+    "vnName": "Slip",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "700d543d-8f47-4b0c-8a1c-b7f75de35c0f",
+    "engName": "Skinsense",
+    "vnName": "Skinsense",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "f23df606-9009-42b6-b7f0-374b6e0e4d47",
+    "engName": "SkinMedica",
+    "vnName": "SkinMedica",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "c37fb1e1-6aa2-444f-8932-4740ac204324",
+    "engName": "SkinMD",
+    "vnName": "SkinMD",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "67733215-3ae1-4019-a19a-aaf50c8ae74b",
+    "engName": "SkinClinic",
+    "vnName": "SkinClinic",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "310ebe5a-4e3c-429d-8bcf-aa7ad03911d9",
+    "engName": "SkinCeuticals",
+    "vnName": "SkinCeuticals",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "1a2e54d4-b758-4f55-acbc-ce56534a3ab8",
+    "engName": "Skinbetter Science",
+    "vnName": "Skinbetter Science",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "ac18819f-4d0f-47a3-a0b6-5f0b16ceace0",
+    "engName": "Skechers",
+    "vnName": "Skechers",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "6df6c6fd-8206-4dc3-94a9-48fe6678c5b5",
+    "engName": "Skagen",
+    "vnName": "Skagen",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "c86c0199-8449-4842-a050-dc9ae3db0264",
+    "engName": "SK-II",
+    "vnName": "SK-II",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "44d399df-36a3-415f-a9a8-87d16ede91c5",
+    "engName": "Six Zero",
+    "vnName": "Six Zero",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "c094f044-ed74-4f93-9841-abd166fef605",
+    "engName": "Sinn",
+    "vnName": "Sinn",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "962fef8b-7d1c-4d93-a6a5-0cae13831ed3",
+    "engName": "Simplify",
+    "vnName": "Simplify",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "30fff075-ffc9-43a6-a98b-6e1c532545e9",
+    "engName": "Simildiet Laboratorios",
+    "vnName": "Simildiet Laboratorios",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "5c8ba549-4dd7-4a48-82a1-004d4a839f02",
+    "engName": "Silisca",
+    "vnName": "Silisca",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "51086413-d169-4687-9f73-cf90f0a58af1",
+    "engName": "Shu Uemura",
+    "vnName": "Shu Uemura",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "ac1068c7-31de-4c7b-bcd0-09aa10276962",
+    "engName": "shoopen",
+    "vnName": "shoopen",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "56eb90be-3f64-48fa-9927-fd6f2a4eb25d",
+    "engName": "Shiseido",
+    "vnName": "Shiseido",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "27dc68a0-5fdb-4f1b-a1e3-e26eefbfc2fc",
+    "engName": "Shiro",
+    "vnName": "Shiro",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "2284dcca-8ada-4577-9b0d-80880b22e39d",
+    "engName": "Sherlyn Diamond",
+    "vnName": "Sherlyn Diamond",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "0768544d-f6d8-4140-9a9b-5bfaf2caa11c",
+    "engName": "SevenFriday",
+    "vnName": "SevenFriday",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "d682d513-c6e1-418d-8c42-6298e20440a3",
+    "engName": "Sergio Tacchini",
+    "vnName": "Sergio Tacchini",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "8e81874f-6d7e-4be9-965b-ac58970fa5b3",
+    "engName": "Sergio Rossi",
+    "vnName": "Sergio Rossi",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "8b40dd1e-5f14-418b-bd2e-229b84587f36",
+    "engName": "Serge Lutens",
+    "vnName": "Serge Lutens",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "f85fb830-3a03-442c-bc0d-13d6bc809e67",
+    "engName": "Sephora Favorites",
+    "vnName": "Sephora Favorites",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "f586e9b6-d5a1-42b4-a802-d0510aed4008",
+    "engName": "Sephora Collection",
+    "vnName": "Sephora Collection",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "328f2c76-7a89-44f6-a06c-b9b5e371f77e",
+    "engName": "Sensai",
+    "vnName": "Sensai",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "b85aef89-baa7-41e7-b790-e9b18ec6facd",
+    "engName": "Selkirk",
+    "vnName": "Selkirk",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "fbb7554c-629c-48e5-903c-b94a08cdd270",
+    "engName": "Self-Portrait",
+    "vnName": "Self-Portrait",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "31960f2d-e4c6-49c9-96f9-ac810b6093b9",
+    "engName": "Seiko",
+    "vnName": "Seiko",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "4be2c4a9-a32c-4291-a5e2-59a9d8b3f436",
+    "engName": "Seboradin",
+    "vnName": "Seboradin",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "7867ca01-d67f-4907-acfe-f7131eb146a3",
+    "engName": "Saucony",
+    "vnName": "Saucony",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "dc72f559-b17f-4f76-a960-d445e0b4e972",
+    "engName": "Sarah Jessica Parker",
+    "vnName": "Sarah Jessica Parker",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "f943d924-0896-4253-b638-7115569323ac",
+    "engName": "Sara Miller",
+    "vnName": "Sara Miller",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "1361592b-2b13-4a8d-8a34-25361ac927d5",
+    "engName": "Sanoflore",
+    "vnName": "Sanoflore",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "f8d22a78-28d9-48b2-aa15-dc79ecb6fbb1",
+    "engName": "Samsung",
+    "vnName": "Samsung",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "da6af941-0fb6-423e-83e9-1d9866e38e98",
+    "engName": "Samsonite",
+    "vnName": "Samsonite",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "382c531f-9a25-422b-a39b-21f03fc90f34",
+    "engName": "Salvatore Ferragamo",
+    "vnName": "Salvatore Ferragamo",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "8e9f480d-612b-4874-8cf4-9c6bfaa2a5bb",
+    "engName": "Saint De Paris & Crew No 9",
+    "vnName": "Saint De Paris & Crew No 9",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "2af62e05-f63c-4e28-8186-114adaa56afd",
+    "engName": "Saga",
+    "vnName": "Saga",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "8fdada01-69d1-42ca-a26b-2a3939be03a6",
+    "engName": "Tudor",
+    "vnName": "Tudor",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "069da75c-965f-4a4b-81e7-e36d27c86ba3",
+    "engName": "TTWN BEAR",
+    "vnName": "TTWN BEAR",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "0bde2564-e20a-488c-bbc3-8b76935cd83f",
+    "engName": "Tsar Bomba",
+    "vnName": "Tsar Bomba",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "f04e10e9-96ac-41da-a52d-79338ae7f749",
+    "engName": "Trussardi",
+    "vnName": "Trussardi",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "57ff5635-b532-4377-b78d-4d1b7b84e45b",
+    "engName": "True Religion",
+    "vnName": "True Religion",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "c4978d16-ee63-4a60-82b6-44aa6e72dd04",
+    "engName": "TriPollar",
+    "vnName": "TriPollar",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "fe91a283-5629-4b9f-b7f5-623814f3d9c1",
+    "engName": "Transino",
+    "vnName": "Transino",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "82f08505-8549-487b-ab49-8a307994612e",
+    "engName": "ToyZeroPlus",
+    "vnName": "ToyZeroPlus",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "961e7f70-dd4d-421d-9b47-d5e100e47502",
+    "engName": "TOYCITY",
+    "vnName": "TOYCITY",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "8863e916-3705-4a21-92ef-0bd883c5e84a",
+    "engName": "Toy Watch",
+    "vnName": "Toy Watch",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "22232023-f327-4b0b-b430-7ac11bd3af96",
+    "engName": "Tory Burch",
+    "vnName": "Tory Burch",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "7b2de23b-617e-44d4-8cf3-4dfc255c1bfd",
+    "engName": "Topicrem",
+    "vnName": "Topicrem",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "95dfb2d7-cbfe-47bc-b78e-a2576ccf2d20",
+    "engName": "Too Faced",
+    "vnName": "Too Faced",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "6bd393f4-4425-422f-b72e-50253fe38cba",
+    "engName": "Tonino Lamborghini",
+    "vnName": "Tonino Lamborghini",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "e28c9d96-e954-4aa8-a7a6-0d7f4bd27419",
+    "engName": "Tommy Hilfiger",
+    "vnName": "Tommy Hilfiger",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "c82520f5-c453-4908-94ac-3af7f635b21e",
+    "engName": "Tom Ford",
+    "vnName": "Tom Ford",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "7e9c2adf-28a1-4921-b522-c0bc5d4e1331",
+    "engName": "Titoni",
+    "vnName": "Titoni",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "68cb4020-38b6-4f7d-b0fa-dbbba6a026b6",
+    "engName": "Titan",
+    "vnName": "Titan",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "2cad88b3-a803-4591-8b92-e178a5a77a33",
+    "engName": "Tissot",
+    "vnName": "Tissot",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "8142e297-089c-4f07-ae4b-ea2b318bc665",
+    "engName": "Timex",
+    "vnName": "Timex",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "6ca83a39-fa42-4afe-9116-c1d186871486",
+    "engName": "Timberland",
+    "vnName": "Timberland",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "06e95162-02ed-445e-9010-6f35923c0079",
+    "engName": "Tiffany & Co.",
+    "vnName": "Tiffany & Co.",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "2af164c9-0d7a-44c2-bb71-9e93a2ef8ca0",
+    "engName": "Thomas Kosmala",
+    "vnName": "Thomas Kosmala",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "10d5dd1d-c2ae-44b2-960c-b75fa79a3fd1",
+    "engName": "Thomas Earnshaw",
+    "vnName": "Thomas Earnshaw",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "ca8cd1ef-ec60-4f01-bc57-2dadc67ab237",
+    "engName": "Thom Browne",
+    "vnName": "Thom Browne",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "2ede88fe-4a6c-4649-b489-95f69fca72fe",
+    "engName": "Thierry Mugler",
+    "vnName": "Thierry Mugler",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "6ad9358c-8f5c-46ac-9011-f9413bf3624f",
+    "engName": "Theodoros Kalotinis",
+    "vnName": "Theodoros Kalotinis",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "9a51462f-8516-4326-9ef2-a93b3e220453",
+    "engName": "The Perfect Derma Peel",
+    "vnName": "The Perfect Derma Peel",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "c95caeb6-b708-4c99-a983-0e120003f1a1",
+    "engName": "The North Face",
+    "vnName": "The North Face",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "bf8ec8c6-66d8-4d1d-82c5-857367cfb383",
+    "engName": "The Merchant Of Venice",
+    "vnName": "The Merchant Of Venice",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "e074bc64-7cd5-4c15-861a-77f392bcb56a",
+    "engName": "The Kooples",
+    "vnName": "The Kooples",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "9b3e9275-64b4-4362-ab69-653f93ba5d71",
+    "engName": "The House Of Oud",
+    "vnName": "The House Of Oud",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "2040866c-f705-40f0-93c5-fd6f5b92ef05",
+    "engName": "The Centaur",
+    "vnName": "The Centaur",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "522906c3-886e-4259-af59-efddc0d124a7",
+    "engName": "The Body Shop",
+    "vnName": "The Body Shop",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "856f692a-6acf-4962-804a-6c25fc3e7c5d",
+    "engName": "Teslar",
+    "vnName": "Teslar",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "705ad88a-c1ca-44e2-a16d-847787867651",
+    "engName": "Teoxane",
+    "vnName": "Teoxane",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "9537ad81-3ce3-4632-8e5f-fc4cd61e48d1",
+    "engName": "Tenamyd",
+    "vnName": "Tenamyd",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "ecdf5e62-7536-4ddd-9241-e3df5b9b9ff3",
+    "engName": "Telfar",
+    "vnName": "Telfar",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "526ec9ea-a329-44e4-a4cb-8394dc54baa0",
+    "engName": "Tegoder",
+    "vnName": "Tegoder",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "af462784-8a4c-4a68-8f20-6a3da3cbe5ad",
+    "engName": "Ted Baker",
+    "vnName": "Ted Baker",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "f8f82189-9ef8-4d7a-b35d-377a7ca8c1d5",
+    "engName": "Tatcha",
+    "vnName": "Tatcha",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "79e304b2-cb81-4aca-b29a-3e8b33325545",
+    "engName": "Tarte",
+    "vnName": "Tarte",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "352c0e6a-f4fd-4400-a268-e176727383be",
+    "engName": "Tamburins",
+    "vnName": "Tamburins",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "673f88d7-b679-4790-a7d4-4c13a60cd23f",
+    "engName": "Uriage",
+    "vnName": "Uriage",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "797467d3-ae92-461d-9e48-4366a7cec580",
+    "engName": "Urban Decay",
+    "vnName": "Urban Decay",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "811a2c3f-ef38-45a8-908c-4ec26ba293e1",
+    "engName": "Uniqlo",
+    "vnName": "Uniqlo",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "71ad1e2e-e4db-4585-9a63-a0ab95c51c38",
+    "engName": "Under Armour",
+    "vnName": "Under Armour",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "41b456b2-c2b5-46f1-89b1-33c095b0bd23",
+    "engName": "Umbro",
+    "vnName": "Umbro",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "7e2eb334-c220-46c7-90ee-9fb239d4e569",
+    "engName": "UGG",
+    "vnName": "UGG",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "3b664ab9-69af-414e-8c83-100b16916915",
+    "engName": "U.S. Polo Assn.",
+    "vnName": "U.S. Polo Assn.",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "309b5c33-db93-4bea-8f18-4ed704368e9d",
+    "engName": "Voluspa",
+    "vnName": "Voluspa",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "41cba679-2a09-466f-91c1-b7ed1d99d331",
+    "engName": "Volayon",
+    "vnName": "Volayon",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "f9488e7b-14dc-4a54-a1fe-635c1ef470a3",
+    "engName": "Vogue",
+    "vnName": "Vogue",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "e5ecfd1f-7484-4363-874c-39a43dcde604",
+    "engName": "Viya Jewelry",
+    "vnName": "Viya Jewelry",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "dbab0006-1c08-4d8f-9bf6-8a9df0632828",
+    "engName": "Viwat",
+    "vnName": "Viwat",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "85e18f3a-76da-463d-a296-90d3071e01e5",
+    "engName": "Vivienne Westwood",
+    "vnName": "Vivienne Westwood",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "639c0522-e22c-4219-9f6b-08d666ff03f1",
+    "engName": "Vivant Skincare",
+    "vnName": "Vivant Skincare",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "c0ed921c-4671-4da1-814b-e810c2aa6a9c",
+    "engName": "Virtue",
+    "vnName": "Virtue",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "dfcbdaaa-c056-48ea-88bd-57c5320b2e86",
+    "engName": "Violet Voss",
+    "vnName": "Violet Voss",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "78747869-0e38-40c2-b5cd-f12eefc79025",
+    "engName": "Viktor & Rolf",
+    "vnName": "Viktor & Rolf",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "8923dba9-529f-4bad-9004-c9539b222e6d",
+    "engName": "Victorinox",
+    "vnName": "Victorinox",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "a50c6fcf-8824-4118-aef4-ad249e7a63f4",
+    "engName": "Victoria's Secret",
+    "vnName": "Victoria's Secret",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "349b8121-f098-4762-b125-b6b4662d4e8a",
+    "engName": "Vichy",
+    "vnName": "Vichy",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "7d5f4108-822c-489e-b802-4415726096a6",
+    "engName": "Vi Derm",
+    "vnName": "Vi Derm",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "c29cc27d-3605-4b57-ac5a-175179046750",
+    "engName": "Vetements",
+    "vnName": "Vetements",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "182ab244-151f-4220-a25f-4661ebcdd8c9",
+    "engName": "Versace",
+    "vnName": "Versace",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "9e918e4a-f7a0-4c4c-a081-58a68fa8f84c",
+    "engName": "Verb",
+    "vnName": "Verb",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "66a125a0-3549-48fb-9fba-81d7f3b80d07",
+    "engName": "Venturo",
+    "vnName": "Venturo",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "be04e4b7-6947-451d-966b-91dc027d2137",
+    "engName": "Vegamour",
+    "vnName": "Vegamour",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "95e82eff-80e8-4696-9692-d6a359b9d29c",
+    "engName": "Vans",
+    "vnName": "Vans",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "ed8544b2-1dc9-4ce8-b1f0-1067bd53fd5f",
+    "engName": "Vanav",
+    "vnName": "Vanav",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "4265d5ab-57b4-4600-bb17-29a1b3f14f5a",
+    "engName": "Van Cleef & Arpels",
+    "vnName": "Van Cleef & Arpels",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "6a6033d4-96d7-4eac-b13c-97fd416b62ad",
+    "engName": "Valmont",
+    "vnName": "Valmont",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "3cd6295b-28c4-4303-93ac-f7458f7411da",
+    "engName": "Valentino",
+    "vnName": "Valentino",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "938fa856-9463-42c4-b271-463a0996f94e",
+    "engName": "Vacheron Constantin",
+    "vnName": "Vacheron Constantin",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "cf18981a-f8cb-4434-a373-d877e7f0b03b",
+    "engName": "Wolf 1834",
+    "vnName": "Wolf 1834",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "ca6756c1-e82e-4418-be42-7950861bc83f",
+    "engName": "Wilson",
+    "vnName": "Wilson",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "a816c6b3-0f48-41b4-a398-28277ff04156",
+    "engName": "Whoo",
+    "vnName": "Whoo",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "f02b4573-8b1c-4783-9307-fe5d51207970",
+    "engName": "WHOAU",
+    "vnName": "WHOAU",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "0a9e9f15-65b4-420f-b6a9-159679d998d9",
+    "engName": "Wenger",
+    "vnName": "Wenger",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "6cebafd1-3502-42a9-bd9a-f04bf0ad50b4",
+    "engName": "Wellmaxx",
+    "vnName": "Wellmaxx",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "0ce7b8b9-8362-4f88-b506-00951f5c0293",
+    "engName": "Weird Market",
+    "vnName": "Weird Market",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "d846f04f-48e4-4e92-a641-5bf90f4c912a",
+    "engName": "Weilaiya",
+    "vnName": "Weilaiya",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "53700160-eb6d-4e1e-a0e8-167c138b7a92",
+    "engName": "Waldhoff",
+    "vnName": "Waldhoff",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "ff11a532-076d-4298-a138-0f9b09995943",
+    "engName": "Xexymix",
+    "vnName": "Xexymix",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "34d9c754-4774-4d5f-9f5c-996e8613b948",
+    "engName": "Xerjoff",
+    "vnName": "Xerjoff",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "afd875ca-1189-43db-8a76-cee9f3e568a4",
+    "engName": "X-Cer",
+    "vnName": "X-Cer",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "fa22fbcb-5bbb-4f5f-8b54-54720de85638",
+    "engName": "YSL",
+    "vnName": "YSL",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "6d6e4e0e-56df-4841-a1e9-375864d9b479",
+    "engName": "Youkshimwon",
+    "vnName": "Youkshimwon",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "898739a5-140b-4b82-9265-5eb9dd0f83b9",
+    "engName": "Yonex",
+    "vnName": "Yonex",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "c6d380ab-b8a0-421e-bc62-cea9dabf5509",
+    "engName": "Ydunvie",
+    "vnName": "Ydunvie",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "a4bd32ae-5b65-4b93-bbaa-f1f1978fc0f3",
+    "engName": "Yaman",
+    "vnName": "Yaman",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "f19bb22b-4045-4834-99f2-e1315e4362a8",
+    "engName": "Zo Skin Health",
+    "vnName": "Zo Skin Health",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "e10555c2-92db-40db-bfd6-9d5705f42cf1",
+    "engName": "Ziozia",
+    "vnName": "Ziozia",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "615aa16b-f893-4c56-8150-418e89e5584c",
+    "engName": "Zinvo",
+    "vnName": "Zinvo",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "56b4220b-cc9a-43e6-97ab-1328818a4f91",
+    "engName": "Zimmermann",
+    "vnName": "Zimmermann",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "a96632c0-4ce9-47a0-b0d0-6f58d5fdaf6f",
+    "engName": "Zimaya",
+    "vnName": "Zimaya",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "4993e69b-280e-4829-94a8-f4ffe13f1192",
+    "engName": "Zeppelin",
+    "vnName": "Zeppelin",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "70948958-5389-4eb8-9f5b-ea6f1355252a",
+    "engName": "Zenith",
+    "vnName": "Zenith",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "db1aa992-c170-4a96-b46d-1a9b27e91c12",
+    "engName": "Zelos",
+    "vnName": "Zelos",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "13d317a5-9556-4500-b7ac-692852b2c06b",
+    "engName": "Zavetti",
+    "vnName": "Zavetti",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "0bb07a8a-46f9-47bc-a1f1-ef1f7632df87",
+    "engName": "ZamST",
+    "vnName": "ZamST",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "2b278eea-2ec1-4dba-86c4-cf09be748f47",
+    "engName": "Zadig & Voltaire",
+    "vnName": "Zadig & Voltaire",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "523641c3-cd46-47b6-bf59-3eb7341ab062",
+    "engName": "7LS Beauty",
+    "vnName": "7LS Beauty",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "9cb5d188-2982-480f-8120-e83b1c71f22f",
+    "engName": "1983",
+    "vnName": "1983",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  },
+  {
+    "id": "9c2b88fd-2c8f-4ee1-b8ab-acd8d5e71cd4",
+    "engName": "13 De Marzo",
+    "vnName": "13 De Marzo",
+    "parentId": "001b4565-7794-4a9d-b781-265874d298d7"
+  }
 ]
