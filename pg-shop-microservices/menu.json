@@ -1,0 +1,50 @@
+[
+    {
+        "menuId": 1,
+        "title": "Home",
+        "url": "/",
+        "order": 1,
+        "status": 1,
+        "parentId": 0
+    },
+    {
+        "menuId": 2,
+        "title": "Fashion",
+        "url": "/fashion",
+        "order": 2,
+        "status": 1,
+        "parentId": 0
+    },
+    {
+        "menuId": 3,
+        "title": "News & Coupon",
+        "url": "/news-coupon",
+        "order": 3,
+        "status": 1,
+        "parentId": 0
+    },
+    {
+        "menuId": 4,
+        "title": "Abount us",
+        "url": "/about-us",
+        "order": 4,
+        "status": 1,
+        "parentId": 0
+    },
+    {
+        "menuId": 5,
+        "title": "Contact",
+        "url": "/contact",
+        "order": 5,
+        "status": 1,
+        "parentId": 0
+    },
+    {
+        "menuId": 6,
+        "title": "My account",
+        "url": "/my-account",
+        "order": 5,
+        "status": 1,
+        "parentId": 0
+    }
+]

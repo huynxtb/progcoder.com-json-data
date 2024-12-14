@@ -1,0 +1,49 @@
+[
+    {
+        "title": "Terms of Service",
+        "content": "This is the terms of service content",
+        "type": "terms",
+        "status": 1
+    },
+    {
+        "title": "Privacy Policy",
+        "content": "This is the privacy policy content",
+        "type": "privacy-policy",
+        "status": 1
+    },
+    {
+        "title": "Sales policy",
+        "content": "This is the refund policy content",
+        "type": "sales-policy",
+        "status": 1
+    },
+    {
+        "title": "Delivery policy",
+        "content": "This is the refund policy content",
+        "type": "delivery-policy",
+        "status": 1
+    },
+    {
+        "title": "Refund policy",
+        "content": "This is the refund policy content",
+        "type": "refund-policy",
+        "status": 1
+    },
+    {
+        "title": "Payment policy",
+        "content": "This is the cancellation policy content",
+        "type": "payment-policy",
+        "status": 1
+    },
+    {
+        "title": "Payment security policy",
+        "content": "This is the cancellation policy content",
+        "type": "payment-security-policy"
+    },
+    {
+        "title": "Cookie policy",
+        "content": "This is the cancellation policy content",
+        "type": "cookie-policy",
+        "status": 1
+    }
+]

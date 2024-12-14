@@ -1,0 +1,9 @@
+[
+    {
+        "title": "Fashion",
+        "url": "/fashion",
+        "order": 1,
+        "group": "footer",
+        "status": 1
+    }
+]

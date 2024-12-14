@@ -1,0 +1,13 @@
+[
+    {
+        "id": 1,
+        "title1": "Banner 1",
+        "title2": "Banner 2",
+        "description": "Banner 1 description",
+        "image": "https://via.placeholder.com/600x300",
+        "link": "https://www.google.com",
+        "buttonText": "Xem chi tiết",
+        "order": 1,
+        "status": 1
+    }
+]

@@ -1,0 +1,26 @@
+{
+    "home": {
+        "vi": "Trang chủ",
+        "en": "Home"
+    },
+    "menu": {
+        "vi": "Menu",
+        "en": "Menu"
+    },
+    "about": {
+        "vi": "Giới thiệu",
+        "en": "About"
+    },
+    "account": {
+        "vi": "Tài khoản",
+        "en": "Account"
+    },
+    "news": {
+        "vi": "Tin tức",
+        "en": "News"
+    },
+    "contact": {
+        "vi": "Liên hệ",
+        "en": "Contact"
+    }
+}

@@ -1,0 +1,10 @@
+[
+    {
+        "name": "About",
+        "description": "About us",
+        "buttonText": "About us",
+        "link": "/about-us",
+        "image": "https://via.placeholder.com/600x300",
+        "status": 1
+    }
+]
