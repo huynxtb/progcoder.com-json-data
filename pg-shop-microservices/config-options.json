@@ -4,8 +4,8 @@
     "optionType": 2,
     "engOptionLabel": "Size",
     "vnOptionLabel": "Size",
-    "engOptionValue": "Size S",
-    "vnOptionValue": "Size S",
+    "engOptionValue": "S",
+    "vnOptionValue": "S",
     "optionCode": "S"
   },
   {
@@ -13,8 +13,8 @@
     "optionType": 2,
     "engOptionLabel": "Size",
     "vnOptionLabel": "Size",
-    "engOptionValue": "Size M",
-    "vnOptionValue": "Size M",
+    "engOptionValue": "M",
+    "vnOptionValue": "M",
     "optionCode": "M"
   },
   {
@@ -22,8 +22,8 @@
     "optionType": 2,
     "engOptionLabel": "Size",
     "vnOptionLabel": "Size",
-    "engOptionValue": "Size L",
-    "vnOptionValue": "Size L",
+    "engOptionValue": "L",
+    "vnOptionValue": "L",
     "optionCode": "L"
   },
   {
@@ -31,8 +31,8 @@
     "optionType": 2,
     "engOptionLabel": "Size",
     "vnOptionLabel": "Size",
-    "engOptionValue": "Size XL",
-    "vnOptionValue": "Size XL",
+    "engOptionValue": "XL",
+    "vnOptionValue": "XL",
     "optionCode": "XL"
   },
   {
@@ -40,8 +40,8 @@
     "optionType": 2,
     "engOptionLabel": "Size",
     "vnOptionLabel": "Size",
-    "engOptionValue": "Size XXL",
-    "vnOptionValue": "Size XXL",
+    "engOptionValue": "XXL",
+    "vnOptionValue": "XXL",
     "optionCode": "XXL"
   },
   {
@@ -133,5 +133,203 @@
     "engOptionValue": "Brown",
     "vnOptionValue": "Nâu",
     "optionCode": "#A52A2A"
+  },
+  {
+    "id": "1a234b21-48b6-4032-a7a6-d1a0649d7d25",
+    "optionType": 2,
+    "engOptionLabel": "Size",
+    "vnOptionLabel": "Size",
+    "engOptionValue": "UK 2.5",
+    "vnOptionValue": "UK 2.5",
+    "optionCode": "UK 2.5"
+  },
+  {
+    "id": "2b345c21-48b6-4032-a7a6-d1a0649d7d26",
+    "optionType": 2,
+    "engOptionLabel": "Size",
+    "vnOptionLabel": "Size",
+    "engOptionValue": "UK 3",
+    "vnOptionValue": "UK 3",
+    "optionCode": "UK 3"
+  },
+  {
+    "id": "3c456d21-48b6-4032-a7a6-d1a0649d7d27",
+    "optionType": 2,
+    "engOptionLabel": "Size",
+    "vnOptionLabel": "Size",
+    "engOptionValue": "UK 3.5",
+    "vnOptionValue": "UK 3.5",
+    "optionCode": "UK 3.5"
+  },
+  {
+    "id": "4d567e21-48b6-4032-a7a6-d1a0649d7d28",
+    "optionType": 2,
+    "engOptionLabel": "Size",
+    "vnOptionLabel": "Size",
+    "engOptionValue": "UK 4",
+    "vnOptionValue": "UK 4",
+    "optionCode": "UK 4"
+  },
+  {
+    "id": "5e678f21-48b6-4032-a7a6-d1a0649d7d29",
+    "optionType": 2,
+    "engOptionLabel": "Size",
+    "vnOptionLabel": "Size",
+    "engOptionValue": "UK 4.5",
+    "vnOptionValue": "UK 4.5",
+    "optionCode": "UK 4.5"
+  },
+  {
+    "id": "6f789g21-48b6-4032-a7a6-d1a0649d7d30",
+    "optionType": 2,
+    "engOptionLabel": "Size",
+    "vnOptionLabel": "Size",
+    "engOptionValue": "UK 5",
+    "vnOptionValue": "UK 5",
+    "optionCode": "UK 5"
+  },
+  {
+    "id": "7g890h21-48b6-4032-a7a6-d1a0649d7d31",
+    "optionType": 2,
+    "engOptionLabel": "Size",
+    "vnOptionLabel": "Size",
+    "engOptionValue": "UK 5.5",
+    "vnOptionValue": "UK 5.5",
+    "optionCode": "UK 5.5"
+  },
+  {
+    "id": "8h901i21-48b6-4032-a7a6-d1a0649d7d32",
+    "optionType": 2,
+    "engOptionLabel": "Size",
+    "vnOptionLabel": "Size",
+    "engOptionValue": "UK 6",
+    "vnOptionValue": "UK 6",
+    "optionCode": "UK 6"
+  },
+  {
+    "id": "9i012j21-48b6-4032-a7a6-d1a0649d7d33",
+    "optionType": 2,
+    "engOptionLabel": "Size",
+    "vnOptionLabel": "Size",
+    "engOptionValue": "UK 6.5",
+    "vnOptionValue": "UK 6.5",
+    "optionCode": "UK 6.5"
+  },
+  {
+    "id": "10j123k21-48b6-4032-a7a6-d1a0649d7d34",
+    "optionType": 2,
+    "engOptionLabel": "Size",
+    "vnOptionLabel": "Size",
+    "engOptionValue": "UK 7",
+    "vnOptionValue": "UK 7",
+    "optionCode": "UK 7"
+  },
+  {
+    "id": "11k234l21-48b6-4032-a7a6-d1a0649d7d35",
+    "optionType": 2,
+    "engOptionLabel": "Size",
+    "vnOptionLabel": "Size",
+    "engOptionValue": "UK 7.5",
+    "vnOptionValue": "UK 7.5",
+    "optionCode": "UK 7.5"
+  },
+  {
+    "id": "12l345m21-48b6-4032-a7a6-d1a0649d7d36",
+    "optionType": 2,
+    "engOptionLabel": "Size",
+    "vnOptionLabel": "Size",
+    "engOptionValue": "UK 8",
+    "vnOptionValue": "UK 8",
+    "optionCode": "UK 8"
+  },
+  {
+    "id": "13m456n21-48b6-4032-a7a6-d1a0649d7d37",
+    "optionType": 2,
+    "engOptionLabel": "Size",
+    "vnOptionLabel": "Size",
+    "engOptionValue": "UK 8.5",
+    "vnOptionValue": "UK 8.5",
+    "optionCode": "UK 8.5"
+  },
+  {
+    "id": "14n567o21-48b6-4032-a7a6-d1a0649d7d38",
+    "optionType": 2,
+    "engOptionLabel": "Size",
+    "vnOptionLabel": "Size",
+    "engOptionValue": "UK 9",
+    "vnOptionValue": "UK 9",
+    "optionCode": "UK 9"
+  },
+  {
+    "id": "15o678p21-48b6-4032-a7a6-d1a0649d7d39",
+    "optionType": 2,
+    "engOptionLabel": "Size",
+    "vnOptionLabel": "Size",
+    "engOptionValue": "UK 9.5",
+    "vnOptionValue": "UK 9.5",
+    "optionCode": "UK 9.5"
+  },
+  {
+    "id": "16p789q21-48b6-4032-a7a6-d1a0649d7d40",
+    "optionType": 2,
+    "engOptionLabel": "Size",
+    "vnOptionLabel": "Size",
+    "engOptionValue": "UK 10",
+    "vnOptionValue": "UK 10",
+    "optionCode": "UK 10"
+  },
+  {
+    "id": "17q890r21-48b6-4032-a7a6-d1a0649d7d41",
+    "optionType": 2,
+    "engOptionLabel": "Size",
+    "vnOptionLabel": "Size",
+    "engOptionValue": "UK 10.5",
+    "vnOptionValue": "UK 10.5",
+    "optionCode": "UK 10.5"
+  },
+  {
+    "id": "18r901s21-48b6-4032-a7a6-d1a0649d7d42",
+    "optionType": 2,
+    "engOptionLabel": "Size",
+    "vnOptionLabel": "Size",
+    "engOptionValue": "UK 11",
+    "vnOptionValue": "UK 11",
+    "optionCode": "UK 11"
+  },
+  {
+    "id": "19s012t21-48b6-4032-a7a6-d1a0649d7d43",
+    "optionType": 2,
+    "engOptionLabel": "Size",
+    "vnOptionLabel": "Size",
+    "engOptionValue": "UK 11.5",
+    "vnOptionValue": "UK 11.5",
+    "optionCode": "UK 11.5"
+  },
+  {
+    "id": "20t123u21-48b6-4032-a7a6-d1a0649d7d44",
+    "optionType": 2,
+    "engOptionLabel": "Size",
+    "vnOptionLabel": "Size",
+    "engOptionValue": "UK 12",
+    "vnOptionValue": "UK 12",
+    "optionCode": "UK 12"
+  },
+  {
+    "id": "21u234v21-48b6-4032-a7a6-d1a0649d7d45",
+    "optionType": 2,
+    "engOptionLabel": "Size",
+    "vnOptionLabel": "Size",
+    "engOptionValue": "UK 12.5",
+    "vnOptionValue": "UK 12.5",
+    "optionCode": "UK 12.5"
+  },
+  {
+    "id": "22v345w21-48b6-4032-a7a6-d1a0649d7d46",
+    "optionType": 2,
+    "engOptionLabel": "Size",
+    "vnOptionLabel": "Size",
+    "engOptionValue": "UK 13",
+    "vnOptionValue": "UK 13",
+    "optionCode": "UK 13"
   }
 ]
